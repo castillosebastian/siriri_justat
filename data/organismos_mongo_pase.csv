@@ -1,0 +1,212 @@
+id,codigo,jurisdiccion,localidad,nombre,pase_descripcion,tsal
+60197dc541c1390007404716,pazalcapaz3,La Paz,Alcaraz,Juzgado de Paz de Alcaraz,,
+60197dcb0cefd400099db70a,nogarapaz3,Nogoyá,Aranguren,Juzgado de Paz de Aranguren,,
+60197ddfb3966400085e87ae,urubasopaz2,Uruguay,Basavilbaso,Juzgado de Paz de Basavilbaso,,
+5e05e245a564b5000a7a5501,bovpaz,La Paz,Bovril,Juzgado de Paz de Bovril,PASE DIRECTO - BOVRIL JUZGADO DE PAZ .-,17&KJGIvzK
+60197de7b3966400085e87bd,urucaspaz3,Uruguay,Caseros,Juzgado de Paz de Caseros,,
+60197dbe41c139000740469f,ibiceipaz3,Islas del Ibicuy,Ceibas,Juzgado de Paz de Ceibas,,
+60197dce41c1390007404748,parcerpaz2,Paraná,Cerrito,Juzgado de Paz de Cerrito,,
+5d5701e4850c0000098b5326,chapaz01,Chajarí,Chajarí,Juzgado de Paz,PASE DIRECTO - CHAJARI JUZGADO DE PAZ .-,17&KJIr5fH
+5d5702af850c0000098f23e3,chacyc01,Chajarí,Chajarí,Juzgado Civil y Comercial 1,PASE DIRECTO - CHAJARI JUZGADO CIVIL Y COMERCIAL N°1 .-,17&KJx6sc2
+5d5835de850c0000095f129e,chacyc02,Chajarí,Chajarí,Juzgado Civil y Comercial 2,PASE DIRECTO - CHAJARI JUZGADO CIVIL Y COMERCIAL N°2 .-,17&KJ7Py1&
+5d5836be850c000009655ff2,chagar01,Chajarí,Chajarí,Juzgado de Garantías,PASE DIRECTO - CHAJARI JUZGADO DE GARANTIAS .-,17&KJH&Dmz
+5d583787850c0000096a1814,chafam01,Chajarí,Chajarí,Juzgado de Familia,PASE DIRECTO - CHAJARI JUZGADO DE FAMILIA Y PENAL DE MENORES .-,17&KJOBaiC
+5e09e42da564b5000a896ac5,chaferia,Chajarí,Chajarí,Juzgado de Feria,PASE DIRECTO - CHAJARI FERIA JUDICIAL .-,17&KJGpxl3
+5d570219850c0000098b6209,coltrab01,Colón,Colón,Juzgado Laboral 1,PASE DIRECTO - COLON JDO DEL TRABAJO N°1.-,17&KJXYg4l
+5d5702e5850c00000991779c,colfam01,Colón,Colón,Juzgado de Familia y Penal de Niños y Adolescentes,PASE DIRECTO - COLON JDO FAMILIA Y PENAL DE NIÑOS Y ADOLECENTES .-,17&KJysiI6
+5d583693850c0000096462b9,colcyc01,Colón,Colón,Juzgado Civil y Comercial 1,PASE DIRECTO - COLON JDO CIVIL Y COMERCIAL N°1 (COMP LABORAL) .-,17&KJr0JlY
+5d583760850c000009697288,colcyc02,Colón,Colón,Juzgado Civil y Comercial 2,PASE DIRECTO - COLON JDO CIVIL Y COMERCIAL N°2 (COMP LABORAL) .-,17&KJOuFIz
+5d583857850c0000096f2c2f,coltra01,Colón,Colón,Juzgado Instruccion 1,,
+5d5839a9850c00000977c7df,colpaz01,Colón,Colón,Juzgado de Paz 1,PASE DIRECTO - COLON JDO DE PAZ .-,17&KJwKYj7
+5e09e4b1a564b5000a897d51,colferia,Colón,Colón,Juzgado de Feria,PASE DIRECTO - COLON FERIA JUDICIAL .-,17&KJXpovV
+5f2d6e12344b3b000bf4d662,colgar01,Colón,Colón,Juzgado de Garantías,PASE DIRECTO - COLON JDO DE GARANTIAS .-,17&KJ42l4d
+5d570298850c0000098e07f6,urupaz01,Uruguay,Concepción del Uruguay,Juzgado de Paz,PASE DIRECTO - CONCEPCION DEL URUGUAY JUZGADO DE PAZ .-,17&KJaDmYj
+5d5702a4850c0000098ea4f7,urusalpen,Uruguay,Concepción del Uruguay,Cámara Penal,PASE DIRECTO - CONCEPCION DEL URUGUAY CAMARA - SALA PENAL .-,17&KJRJ3ou
+5d5702aa850c0000098efecf,urulab01,Uruguay,Concepción del Uruguay,Juzgado de Primera Instancia del Trabajo Nº1,PASE DIRECTO - CONCEPCION DEL URUGUAY JUZGADO DEL TRABAJO N°1 .-,17&KJOK4Ip
+5d5702c7850c0000099030d3,uruciv01,Uruguay,Concepción del Uruguay,Juzgado Civil y Comercial 1,PASE DIRECTO - CONCEPCION DEL URUGUAY JUZGADO CIVIL y COMERCIAL N°1 .-,17&KJOZKIy
+5d570323850c000009923dd3,uruciv02,Uruguay,Concepción del Uruguay,Juzgado Civil y Comercial 2,PASE DIRECTO - CONCEPCION DEL URUGUAY JUZGADO CIVIL y COMERCIAL N°2 .-,17&KJJGT6T
+5d570324850c000009924252,urulabo02,Uruguay,Concepción del Uruguay,Juzgado de Primera Instancia del Trabajo Nº2,PASE DIRECTO - CONCEPCION DEL URUGUAY JUZGADO DEL TRABAJO N°2 .-,17&KJ&g4dD
+5d570336850c00000992f4bd,uruoga,Uruguay,Concepción del Uruguay,Oficina de Gestión de Audiencias - OGA,PASE DIRECTO - CONCEPCION DEL URUGUAY OGA .-,17&KJMA8v&
+5d57040a850c0000099ac847,urulabo03,Uruguay,Concepción del Uruguay,Juzgado de Primera Instancia del Trabajo Nº3,PASE DIRECTO - CONCEPCION DEL URUGUAY JUZGADO DEL TRABAJO N°3 .-,17&KJzwYZ8
+5d570442850c0000099c5a98,uruciv03,Uruguay,Concepción del Uruguay,Juzgado Civil y Comercial 3,,
+5d5705a3850c000009a82541,urufam01,Uruguay,Concepción del Uruguay,Juzgado de Familia y Penal de Niños y Adoloscentes Nº1,PASE DIRECTO - CONCEPCION DEL URUGUAY JDO DE FLIA Y PENAL DE NIÑOS Y ADOLESCENTES N°1 .-,17&KJptSmD
+5d5817da850c0000090650dd,urufam02,Uruguay,Concepción del Uruguay,Juzgado de Familia y Penal de Niños y Adoloscentes Nº2,PASE DIRECTO - CONCEPCION DEL URUGUAY JDO DE FLIA Y PENAL DE NIÑOS Y ADOLESCENTES N°2 .-,17&KJPqjHS
+5d5821ed850c0000092d7db7,urucamcyc,Uruguay,Concepción del Uruguay,Cámara Civil y Comercial,PASE DIRECTO - CONCEPCION DEL URUGUAY CAMARA - SALA CIVIL Y COMERCIAL .-,17&KJpK7nK
+5d582457850c0000093351b5,urucamcon,Uruguay,Concepción del Uruguay,Cámara en lo Contencioso Administrativo Nº2,PASE DIRECTO - CONCEPCION DEL URUGUAY CAMARA EN LO CONTENCIOSO ADMINISTRATIVO .-,17&KJxYKsP
+5d582a11850c0000094b8501,urucamlab,Uruguay,Concepción del Uruguay,Cámara Laboral,PASE DIRECTO - CONCEPCION DEL URUGUAY CAMARA DEL TRABAJO .-,17&KJ7PeTt
+5e09e7bba564b5000a8ae8ed,uruferia,Uruguay,Concepción del Uruguay,Juzgado de Feria,PASE DIRECTO - CONCEPCION DEL URUGUAY FERIA JUDICIAL .-,17&KJBeygg
+5d570220850c0000098b645f,concivil01,Concordia,Concordia,Juzgado Civil y Comercial 1,PASE DIRECTO - CONCORDIA JUZGADO CIVIL y COMERCIAL N°1 .-,17&KJKl6C2
+5d570226850c0000098b6794,confam01,Concordia,Concordia,Juzgado Familia 1,PASE DIRECTO - CONCORDIA JDO FAMILIA Y PENAL DE NIÑOS Y ADOLECENTES N°1 .-,17&KJuYM9N
+5d570228850c0000098b68cc,conpaz01,Concordia,Concordia,Juzgado de Paz,PASE DIRECTO - CONCORDIA JUZGADO DE PAZ .-,17&KJOFjce
+5d5702f7850c00000991dca3,concivil02,Concordia,Concordia,Juzgado Civil y Comercial 2,PASE DIRECTO - CONCORDIA JUZGADO CIVIL y COMERCIAL N°2 .-,17&KJcRSb0
+5d5702f7850c00000991dca4,confam02,Concordia,Concordia,Juzgado Familia 2,PASE DIRECTO - CONCORDIA JDO FAMILIA Y PENAL DE NIÑOS Y ADOLECENTES N°2 .-,17&KJkKirG
+5d570314850c000009920674,consalapen,Concordia,Concordia,Cámara Penal,PASE DIRECTO - CONCORDIA CAMARA PENAL .-,17&KJEKVdO
+5d57038c850c000009959102,consalaciv01,Concordia,Concordia,Cámara Civil Sala 1,PASE DIRECTO - CONCORDIA CAMARA CIVIL Y COMERCIAL SALA I .-,17&KJJD3jX
+5d570415850c0000099b2671,consalaciv02,Concordia,Concordia,Cámara Civil Sala 2,PASE DIRECTO - CONCORDIA CAMARA CIVIL Y COMERCIAL SALA II .-,17&KJ5yQc8
+5d57047b850c0000099e7a61,confam03,Concordia,Concordia,Juzgado Familia 3,PASE DIRECTO - CONCORDIA JDO FAMILIA Y PENAL DE NIÑOS Y ADOLECENTES N°3 .-,17&KJCzrV1
+5d570532850c000009a46d4b,consalalab,Concordia,Concordia,Cámara Laboral,PASE DIRECTO - CONCORDIA CAMARA DEL TRABAJO .-,17&KJENNFx
+5d570571850c000009a6356d,concivil03,Concordia,Concordia,Juzgado Civil y Comercial 3,PASE DIRECTO - CONCORDIA JUZGADO CIVIL y COMERCIAL N°3 .-,17&KJRaZA5
+5d571c70850c000009f22ff1,conferia,Concordia,Concordia,Juzgado de Feria,PASE DIRECTO - CONCORDIA FERIA JUDICIAL .-,17&KJJHD0p
+5d571c72850c000009f22ff2,conoga,Concordia,Concordia,Oficina de Gestión de Audiencias - OGA,PASE DIRECTO - CONCORDIA OGA .-,17&KJoRpqH
+5d5720e6850c000009f57243,conccpen,Concordia,Concordia,Cámara de Casación Penal,PASE DIRECTO - CONCORDIA CAMARA DE CASACION PENAL.-,17&KJ6Mlvy
+5d572a5d850c0000090fe1d8,concivil04,Concordia,Concordia,Juzgado Civil y Comercial 4,PASE DIRECTO - CONCORDIA JUZGADO CIVIL y COMERCIAL N°4 .-,17&KJAqidt
+5d572e4e850c0000091a9d1f,concivil05,Concordia,Concordia,Juzgado Civil y Comercial 5,,
+5d580476850c000009acc110,concivil06,Concordia,Concordia,Juzgado Civil y Comercial 6,,
+5d58166a850c000009fd7d93,conlab02,Concordia,Concordia,Juzgado Laboral 2,PASE DIRECTO - CONCORDIA JUZGADO DEL TRABAJO N°2 .-,17&KJlDPFF
+5d5817c8850c00000905e894,conlab03,Concordia,Concordia,Juzgado Laboral 3,PASE DIRECTO - CONCORDIA JUZGADO DEL TRABAJO N°3 .-,17&KJl72IE
+5d581956850c0000090eef0a,conlab04,Concordia,Concordia,Juzgado Laboral 4,PASE DIRECTO - CONCORDIA JUZGADO DEL TRABAJO N°4 .-,17&KJZ3GOU
+5d58345d850c00000955f4c2,crespaz,Crespo,Crespo,Juzgado de Paz,PASE DIRECTO - CRESPO JUZGADO DE PAZ .-,17&KJkFpag
+5d5bf3efa1e35c000975dad7,diacyc01,Diamante,Diamante,Juzgado Primera Instancia Civil y Comercial,PASE DIRECTO - DIAMANTE JUZGADO CIVIL y COMERCIAL .-,17&KJkppHj
+5d5bfa96a1e35c00097d3aec,diafam01,Diamante,Diamante,Familia 1,PASE DIRECTO - DIAMANTE JUZGADO DE FAMILIA Y PENAL DE NIÑOS Y ADOLESCENTES .-,17&KJlIefy
+5d5bfb7da1e35c00097ea8c2,diains01,Diamante,Diamante,Juzgado Instruccion 1,,
+5d5bfc65a1e35c0009802e7f,diapaz01,Diamante,Diamante,Juzgado de Paz,PASE DIRECTO - DIAMANTE JUZGADO DE PAZ .-,17&KJmXmJ4
+5e09e48ca564b5000a897432,diaferia,Diamante,Diamante,Juzgado de Feria,PASE DIRECTO - DIAMANTE FERIA JUDICIAL .-,17&KJLucPG
+60197da541c139000740455f,conegrapaz3,Concordia,Estancia Grande,Juzgado de Paz de Estancia Grande,,
+5d5c0d29a1e35c000999b6a0,federacioncyc01,Federación,Federación,"Juzgado Civil, Comercial, Laboral y Familia",PASE DIRECTO - FEDERACION JUZGADO CIVIL Y COMERCIAL .-,17&KJra03h
+5d5c0dc0a1e35c00099a1c1d,federacionpaz01,Federación,Federación,Juzgado de Paz,PASE DIRECTO - FEDERACION JUZGADO DE PAZ .-,17&KJLq59S
+5d5c0dfaa1e35c00099a4807,federaciongar01,Federación,Federación,Juzgado de Garantia,PASE DIRECTO - FEDERACION JUZGADO DE GARANTIAS Y TRANSICION .-,17&KJmnkJ&
+5e09e415a564b5000a8968d6,federacionferia,Federación,Federación,Juzgado de Feria,PASE DIRECTO - FEDERACION FERIA JUDICIAL .-,17&KJ7Cdxz
+5d583492850c00000956a099,fedcyc01,Federal,Federal,Juzgado Civil y Comercial 1,PASE DIRECTO - FEDERAL JUZGADO CIVIL y COMERCIAL (CON COMPETENCIA LABORAL) .-,17&KJRWqHo
+5d58587dca26bf0009b5785f,fedpaz01,Federal,Federal,Juzgado de Paz,PASE DIRECTO - FEDERAL JUZGADO DE PAZ .-,17&KJLNJtf
+5d58587fca26bf0009b57860,fedgar01,Federal,Federal,Juzgado Garantia 1,PASE DIRECTO - FEDERAL JUZGADO DE GARANTIAS .-,17&KJkt4y5
+5d5d69dfa1e35c0009d19ecd,fedfis01,Federal,Federal,"Juzgado de Familia y Penal de Niños, Niñas y Adolescentes",PASE DIRECTO - FEDERAL JUZGADO DE FAMILIA Y PENAL DE NIÑOS Y NIÑAS Y ADOLESCENTES.-,17&KJrpOWA
+5e09e484a564b5000a8970cd,fedferia,Federal,Federal,Juzgado de Feria,PASE DIRECTO - FEDERAL FERIA JUDICIAL .-,17&KJhUzes
+5d570233850c0000098b6a6f,felcyc01,Feliciano,Feliciano,Juzgado Civil y Comercial,,
+5d5702f7850c00000991dca2,felfam01,Feliciano,Feliciano,Familia 1 Residual,,
+5d5703f8850c0000099a7cbc,famfel02,Feliciano,Feliciano,Juzgado de Familia y Menores,PASE DIRECTO - SAN JOSE DE FELICIANO JDO. DE FAMILIA Y MENORES .-,17&KJO7dQo
+5d570532850c000009a46ff9,felpaz01,Feliciano,Feliciano,Juzgado de Paz,PASE DIRECTO - SAN JOSE DE FELICIANO JUZGADO DE PAZ .-,17&KJaKI77
+5d570f07850c000009de5546,felins01,Feliciano,Feliciano,Juzgado Instruccion 1,,
+5d574637850c0000092e7467,fellab01,Feliciano,Feliciano,Juzgado Laboral 1,,
+5e09e4b1a564b5000a897d50,felferia,Feliciano,Feliciano,Juzgado de Feria,PASE DIRECTO - SAN JOSE DE FELICIANO FERIA JUDICIAL .-,17&KJxJzQ4
+60197db341c13900074045ee,uayggalpaz3,Gualeguay,Galarza,Juzgado de Paz de Galarza,,
+60197dabf6d3770009680ece,concapmpaz2,Concordia,General Campos,Juzgado de Paz de General Campos,,
+5d7f67c7e6161f0009561185,rampaz,General Ramirez,General Ramirez,Juzgado de Paz,PASE DIRECTO - GENERAL RAMIREZ JUZGADO DE PAZ .-,17&KJaxGmw
+5d570237850c0000098b75ef,uaycyc01,Gualeguay,Gualeguay,Juzgado Civil y Comercial 1,PASE DIRECTO - GUALEGUAY JUZGADO CIVIL y COMERCIAL N°1.-,17&KJzf1ai
+5d57041e850c0000099b5a08,uaycyc02,Gualeguay,Gualeguay,Juzgado Civil y Comercial 2,PASE DIRECTO - GUALEGUAY JUZGADO CIVIL y COMERCIAL N°2.-,17&KJZxMba
+5d5c0749a1e35c0009971b9c,uayfam01,Gualeguay,Gualeguay,Juzgado de Familia 1,PASE DIRECTO - GUALEGUAY JUZGADO DE FAMILIA .-,17&KJuELyL
+5d5c1a04a1e35c0009a2f297,uaygar01,Gualeguay,Gualeguay,Juzgado de Garantia 1,PASE DIRECTO - GUALEGUAY JUZGADO DE GARANTIAS Y TRANSICION N°1 .-,17&KJ3QTh9
+5d5c1a51a1e35c0009a3107e,uaypaz01,Gualeguay,Gualeguay,Juzgado de Paz 1,PASE DIRECTO - GUALEGUAY JUZGADO DE PAZ .-,17&KJqKFiJ
+5d5c1d22a1e35c0009a463a5,uaygar02,Gualeguay,Gualeguay,Juzgado de Garantia 2,PASE DIRECTO - GUALEGUAY JUZGADO DE GARANTIAS Y TRANSICION N°2 .-,17&KJUTWee
+5d5c1ebca1e35c0009a4d845,uayapel,Gualeguay,Gualeguay,Tribunal de Juicio y Apelaciones,PASE DIRECTO - GUALEGUAY TRIBUNAL DE JUICIO Y APELACIONES .-,17&KJ7gecQ
+5d5c1f39a1e35c0009a52c54,uayoga,Gualeguay,Gualeguay,Oficina de Gestión de Audiencias,PASE DIRECTO - GUALEGUAY OGA .-,17&KJkGV7a
+5d5c1f3fa1e35c0009a52f7c,uaylaboral,Gualeguay,Gualeguay,Juzgado Laboral,PASE DIRECTO - GUALEGUAY JUZGADO LABORAL .-,17&KJGzXUj
+5e09e485a564b5000a89742a,uayferia,Gualeguay,Gualeguay,Juzgado de Feria,PASE DIRECTO - GUALEGUAY FERIA JUDICIAL .-,17&KJHADLt
+5d570243850c0000098bb91a,guaciv01,Gualeguaychú,Gualeguaychú,Juzgado Civil y Comercial 1,PASE DIRECTO - GUALEGUAYCHU JUZGADO CIVIL Y COMERCIAL N°1 .-,17&KJ10Hc9
+5d57024a850c0000098c02e9,gualab01,Gualeguaychú,Gualeguaychú,Juzgado Laboral 01,PASE DIRECTO - GUALEGUAYCHU JUZGADO DEL TRABAJO N°1 .-,17&KJlxirp
+5d57024f850c0000098c1f9b,guaejepen,Gualeguaychú,Gualeguaychú,Juzgado de Ejecución de Penas,PASE DIRECTO - GUALEGUAYCHU JDO DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD .-,17&KJrW33R
+5d5702f7850c00000991dca1,guaciv02,Gualeguaychú,Gualeguaychú,Juzgado Civil y Comercial 2,PASE DIRECTO - GUALEGUAYCHU JUZGADO CIVIL Y COMERCIAL N°2 .-,17&KJJgibj
+5d5702f7850c00000991dca5,gualab02,Gualeguaychú,Gualeguaychú,Juzgado Laboral 02,PASE DIRECTO - GUALEGUAYCHU JUZGADO DEL TRABAJO N°2 .-,17&KJ1nBDd
+5d5702f7850c00000991dcd4,guaoga,Gualeguaychú,Gualeguaychú,Oficina de Gestión de Audiencia - OGA,PASE DIRECTO - GUALEGUAYCHU OGA .-,17&KJTPew3
+5d5703fa850c0000099a7db6,guaciv03,Gualeguaychú,Gualeguaychú,Juzgado Civil y Comercial 3,PASE DIRECTO - GUALEGUAYCHU JUZGADO CIVIL Y COMERCIAL N°3 .-,17&KJXFoLX
+5d5703fe850c0000099a9832,gualab03,Gualeguaychú,Gualeguaychú,Juzgado Laboral 03,PASE DIRECTO - GUALEGUAYCHU JUZGADO DEL TRABAJO N°3 .-,17&KJ31lqk
+5d5705f1850c000009aa89cd,guafam,Gualeguaychú,Gualeguaychú,Juzgados de Familia Nº1 y Nº 2,,
+5d57e7b1850c00000943fdc9,guapaz01,Gualeguaychú,Gualeguaychú,Juzgado Paz,PASE DIRECTO - GUALEGUAYCHU JUZGADO DE PAZ .-,17&KJBjTHr
+5d57eb39850c0000094a2831,guacamape,Gualeguaychú,Gualeguaychú,Cámara de Apleaciones - Sala Civil,PASE DIRECTO - GUALEGUAYCHU CAMARA DE APELACIONES - SALA CIVIL Y COMERCIAL .-,17&KJAZM1U
+5d57ebda850c0000094ac1ec,guaferia,Gualeguaychú,Gualeguaychú,Feria,PASE DIRECTO - GUALEGUAYCHU FERIA JUDICIAL .-,17&KJfLYoT
+5d57f13d850c0000095c4c21,guacamapelab,Gualeguaychú,Gualeguaychú,Cámara de Apleaciones - Sala Laboral,PASE DIRECTO - GUALEGUAYCHU CAMARA DE APELACIONES - SALA LABORAL .-,17&KJYZo68
+60197dd0b3966400085e8755,parhazoaz2,Paraná,Hasenkamp,Juzgado de Paz de Hasenkamp,,
+60197dd2f6d3770009680fe9,parherpaz2,Paraná,Hernandarias,Juzgado de Paz de Hernandarias,,
+60197dc7b3966400085e8753,nogherpaz2,Nogoyá,Hernandez,Juzgado de Paz de Hernandez,,
+60197dc241c13900074046b0,ibiibipaz3,Islas del Ibicuy,Ibicuy,Juzgado de Paz de Ibicuy,,
+5d570255850c0000098c3f6e,pazcorr01,La Paz,La Paz,Tribunal de juicio y apelaciones,PASE DIRECTO - LA PAZ TRIBUNAL DE JUICIO Y APELACIONES .-,17&KJhDiLT
+5d5702a3850c0000098e9572,pazcyc01,La Paz,La Paz,Juzgado Civil Comercial y Laboral 1,PASE DIRECTO - LA PAZ JUZGADO CIVIL y COMERCIAL N°1 (CON COMPETENCIA LABORAL) .-,17&KJHnJd&
+5d570359850c000009941ea8,pazcyc02,La Paz,La Paz,Juzgado Civil Comercial y Laboral 2,PASE DIRECTO - LA PAZ JUZGADO CIVIL y COMERCIAL N°2 (CON COMPETENCIA LABORAL) .-,17&KJLsQL0
+5d57055c850c000009a5afda,pazdef01,La Paz,La Paz,Ministerio Público de la Defensa,PASE DIRECTO - LA PAZ DEFENSORIA .-,17&KJsRU4b
+5d575162850c000009458d20,pazfis01,La Paz,La Paz,Unidad Fiscal,PASE DIRECTO - LA PAZ FISCALIA .-,17&KJmnNyP
+5d57541b850c00000946e926,pazflia01,La Paz,La Paz,Juzgado de Familia y Penal de Menores,PASE DIRECTO - LA PAZ JUZGADO DE FAMILIA Y PENAL DE NIÑOS Y ADOLECENTES .-,17&KJHzFxf
+5d57553a850c0000094aea13,pazins01,La Paz,La Paz,Juzgado de Garantías y Transición,,
+5d57576a850c0000094c1b86,pazins02,La Paz,La Paz,Transición (ex jdo de instrucción secretaría 2),,
+5d575961850c0000094d381c,pazlab01,La Paz,La Paz,Laboral Residual,,
+5d575979850c0000094d4129,pazoga,La Paz,La Paz,OGA,PASE DIRECTO - LA PAZ OGA .-,17&KJjicsr
+5d5759e0850c0000094d7b7f,pazpaz01,La Paz,La Paz,Juzgado de Paz,PASE DIRECTO - LA PAZ JUZGADO DE PAZ .-,17&KJCO8x5
+5d575bf3850c0000094f9a00,pazprob01,La Paz,La Paz,Oficina de Probation,PASE DIRECTO - LA PAZ PROBATION .-,17&KJ7BYDT
+5e09e4eda564b5000a8991b9,pazferia,La Paz,La Paz,Juzgado de Feria,PASE DIRECTO - LA PAZ FERIA JUDICIAL .-,17&KJB778g
+60197db9f6d3770009680f13,gualarpaz2,Gualeguaychú,Larroque,Juzgado de Paz de Larroque,,
+60197dbbb3966400085e873f,guaurdpaz2,Urdinarrain,Larroque,Juzgado de Paz de Urdinarrain,,
+60197dc9b3966400085e8754,noglgonpaz3,Nogoyá,Lucas Gonzalez,Juzgado de Paz de Lucas Gonzalez,,
+60197ddbb3966400085e877a,rosmacpaz2,Tala,Macia,Juzgado de Paz de Macia,,
+60197dddf6d3770009681027,rosmanpaz3,Tala,Mansilla,Juzgado de Paz de Mansilla,,
+5e05e0f5a564b5000a7a25ea,mgdepaz,Paraná,María Grande,Juzgado de Paz de María Grande,PASE DIRECTO - MARIA GRANDE JUZGADO DE PAZ .-,17&KJYMGWY
+5d57025c850c0000098c5b0f,nogpaz01,Nogoyá,Nogoyá,Juzgado de Paz,PASE DIRECTO - NOGOYA JUZGADO DE PAZ .-,17&KJTFsED
+5d5702f7850c00000991dcd6,nogflia01,Nogoyá,Nogoyá,Juzgado Familia y Penal de Niños y Adolescentes,PASE DIRECTO - NOGOYA JUZGADO DE FAMILIA Y PENAL DE MENORES .-,17&KJrTvih
+5d5703f8850c0000099a7cbd,nogcyc02,Nogoyá,Nogoyá,Juzgado Civil y Comercial 2,PASE DIRECTO - NOGOYA JUZGADO CIVIL Y COMERCIAL N°2 .-,17&KJAStGO
+5d570532850c000009a46d4a,nogins01,Nogoyá,Nogoyá,Juzgado Instruccion 1,,
+5d5d44d4a1e35c0009b51482,nogcyc01,Nogoyá,Nogoyá,Juzgado Civil y Comercial 1,PASE DIRECTO - NOGOYA JUZGADO CIVIL Y COMERCIAL N°1 .-,17&KJLhTGc
+5e09e4a7a564b5000a897920,nogferia,Nogoyá,Nogoyá,Juzgado de Feria,PASE DIRECTO - NOGOYA FERIA JUDICIAL .-,17&KJPEV5j
+5db6c2e5ab37b80009514900,overpaz,Paraná,Oro Verde,Juzgado de Paz de Oro Verde,PASE DIRECTO - ORO VERDE JUZGADO DE PAZ .-,17&KJ1mza5
+5d56fc76850c0000095ec634,parcyc01,Paraná,Paraná,Juzgado Civil y Comercial 1,PASE DIRECTO - PARANA JUZGADO CIVIL Y COMERCIAL N°1 .-,17&KJABC01
+5d56fcea850c000009619136,parlab01,Paraná,Paraná,Juzgado Laboral 1,PASE DIRECTO - PARANA JUZGADO LABORAL N°1 .-,17&KJ6oDTL
+5d56fd5b850c000009674301,parlab02,Paraná,Paraná,Juzgado Laboral 2,PASE DIRECTO - PARANA JUZGADO LABORAL N°2 .-,17&KJABC20
+5d56fe72850c00000970e8ab,parlab03,Paraná,Paraná,Juzgado Laboral 3,PASE DIRECTO - PARANA JUZGADO LABORAL N°3 .-,17&KJABC21
+5d56ffc8850c000009823a49,parlab04,Paraná,Paraná,Juzgado Laboral 4,PASE DIRECTO - PARANA JUZGADO LABORAL N°4 .-,17&KJABC22
+5d570267850c0000098c800b,parccs01,Paraná,Paraná,Cámara Civil y Comercial Sala 1,PASE DIRECTO - PARANA CAMARA CIVIL Y COMERCIAL SALA I .-,17&KJABC25
+5d570270850c0000098ca519,parf02flia,Paraná,Paraná,Juzgado de Familia 2,PASE DIRECTO - PARANA JUZGADO DE FAMILIA N°2 .-,17&KJm8yKG
+5d57027e850c0000098d04ae,parcyc09,Paraná,Paraná,Juzgado Civil y Comercial 9,,
+5d570290850c0000098db570,parcyc02,Paraná,Paraná,Juzgado Civil y Comercial 2,PASE DIRECTO - PARANA JUZGADO CIVIL Y COMERCIAL N°2 .-,17&KJABC04
+5d570301850c00000991fc00,parepenas,Paraná,Paraná,Juzgado de Ejecución de Penas,,
+5d570305850c000009920049,parccs02,Paraná,Paraná,Cámara Civil y Comercial Sala 2,PASE DIRECTO - PARANA CAMARA CIVIL Y COMERCIAL SALA II .-,17&KJABC26
+5d570305850c00000992004c,parf02asis,Paraná,Paraná,Juzgado de Familia 3,PASE DIRECTO - PARANA JUZGADO DE FAMILIA N°3 .-,17&KJCHe8m
+5d570315850c0000099206a3,parcyc10,Paraná,Paraná,Juzgado Civil y Comercial 10,,
+5d57033a850c000009931cfa,parcyc03,Paraná,Paraná,Juzgado Civil y Comercial 3,PASE DIRECTO - PARANA JUZGADO CIVIL Y COMERCIAL N°3 .-,17&KJABC05
+5d57055e850c000009a5bbd7,feria,Paraná,Paraná,Juzgado de Feria,PASE DIRECTO - PARANA FERIA JUDICIAL .-,17&KJ&FXqS
+5d57056f850c000009a6199c,parcyc04,Paraná,Paraná,Juzgado Civil y Comercial 4,PASE DIRECTO - PARANA JUZGADO CIVIL Y COMERCIAL N°4 .-,17&KJABC06
+5d57059c850c000009a7eb75,parcts02,Paraná,Paraná,Cámara Civil y Comercial Sala 3,PASE DIRECTO - PARANA CAMARA CIVIL Y COMERCIAL SALA III .-,17&KJABC27
+5d5705dd850c000009aa20ed,parfam04s4,Paraná,Paraná,Juzgado de Familia 4,PASE DIRECTO - PARANA JUZGADO DE FAMILIA N°4 .-,17&KJvHqs9
+5d571190850c000009de5547,parccont,Paraná,Paraná,Cámara Contencioso Administrativo,PASE DIRECTO - PARANA CAMARA EN LO CONTENCIOSO ADMINISTRATIVO .-,17&KJOkdeh
+5d57122f850c000009e1dbb3,parconten,Paraná,Paraná,Sala Contencioso Administrativo,,
+5d576a36850c00000989738f,parpaz01,Paraná,Paraná,Juzgado de Paz 1,PASE DIRECTO - PARANA JUZGADO DE PAZ N°1 .-,17&KJABC18
+5d576d8e850c0000099d36cc,parpaz02,Paraná,Paraná,Juzgado de Paz 2,PASE DIRECTO - PARANA JUZGADO DE PAZ N°2 .-,17&KJABC19
+5d57707b850c000009b0c5b1,parfam01,Paraná,Paraná,Juzgado de Familia 1,PASE DIRECTO - PARANA JUZGADO DE FAMILIA N°1 .-,17&KJQTeDN
+5d5783fc850c0000092d1997,parcyc05,Paraná,Paraná,Juzgado Civil y Comercial 5,PASE DIRECTO - PARANA JUZGADO CIVIL Y COMERCIAL N°5 .-,17&KJABC07
+5d57868d850c0000094528a6,parcyc06,Paraná,Paraná,Juzgado Civil y Comercial 6,PASE DIRECTO - PARANA JUZGADO CIVIL Y COMERCIAL N°6 .-,17&KJABC08
+5d578939850c0000095cdce4,parcyc07,Paraná,Paraná,Juzgado Civil y Comercial 7,PASE DIRECTO - PARANA JUZGADO CIVIL Y COMERCIAL N°7 .-,17&KJABC09
+5d578bae850c00000974c122,parcyc08,Paraná,Paraná,Juzgado Civil y Comercial 8,PASE DIRECTO - PARANA JUZGADO CIVIL Y COMERCIAL N°8 .-,17&KJABC10
+5d57a50c850c000009e36b1e,parcamcasacion,Paraná,Paraná,Cámara de Casacion Penal,PASE DIRECTO - PARANA CAMARA DE CASACION PENAL .-,17&KJWZsZM
+5d57a516850c000009e3b6a7,parmedia,Paraná,Paraná,Mediación,,
+5d57b0ec850c000009058c27,parcts01,Paraná,Paraná,Cámara Trabajo Sala 1,PASE DIRECTO - PARANA CAMARA LABORAL SALA I .-,17&KJABC28
+5d57b16c850c0000090a6e58,parctrs02,Paraná,Paraná,Cámara Trabajo Sala 2,PASE DIRECTO - PARANA CAMARA LABORAL SALA II .-,17&KJDuPcF
+5d57b18d850c0000090c90a9,parstsc01,Paraná,Paraná,Superior Tribunal Sala Civil y Comercial,,
+5d57b212850c0000090fb4b4,parstsl01,Paraná,Paraná,Superior Tribunal Sala Laboral,,
+5d57b265850c00000911f56a,parstsp01,Paraná,Paraná,Superior Tribunal Sala Penal,,
+5d57b271850c000009123826,paroga,Paraná,Paraná,OGA,PASE DIRECTO - PARANA OGA .-,17&KJCJyyS
+5d57b2d8850c00000914c693,paramp01,Paraná,Paraná,AMPAROS STJ,PASE DIRECTO - PARANA AREA DE AMPAROS - S.T.J. .-,17&KJVSZQy
+5dd3f5fd12c2d7000a962338,parampvotos,Paraná,Paraná,V Amparos,,
+5eb410e8f83d25000971998b,parcampen2,Paraná,Paraná,Camara Penal Sala 2,PASE DIRECTO - PARANA CAMARA PENAL SALA II .-,17&KJzclVj
+5eb4117df83d250009719c52,parcampen1,Paraná,Paraná,Camara Penal Sala 1,PASE DIRECTO - PARANA CAMARA PENAL SALA I .-,17&KJ5OwpZ
+5fc614f08ff6550008975480,parccs03,Paraná,Paraná,Cámara Civil y Comercial (Presidencia),,
+60197dd441c1390007404754,parpbrupaz3,Paraná,Pueblo Brugo,Juzgado de Paz de Pueblo Brugo,,
+5d5bfa8ba1e35c00097d397e,roscyc,Rosario del Tala,Rosario del Tala,Juzgado Civil y Comercial 1,PASE DIRECTO - ROSARIO DEL TALA JUZGADO CIVIL Y COMERCIAL .-,17&KJip1vJ
+5d5bfb3aa1e35c00097e4d69,rosgar01,Rosario del Tala,Rosario del Tala,Juzgado Garantia 1,PASE DIRECTO - ROSARIO DEL TALA JUZGADO DE GARANTIAS .-,17&KJ&Peyx
+5d5bfbf0a1e35c00097f3e5b,rospaz01,Rosario del Tala,Rosario del Tala,Juzgado de Paz,PASE DIRECTO - ROSARIO DEL TALA JUZGADO DE PAZ .-,17&KJZwIJR
+5d5bfcdba1e35c000981229e,rosfamilia,Rosario del Tala,Rosario del Tala,Juzgado de Familia,PASE DIRECTO - ROSARIO DEL TALA JUZGADO DE FAMILIA Y PENAL DE NIÑOS Y ADOLESCENTES.-,17&KJOGgs6
+5e09e484a564b5000a8970d2,rosferia,Rosario del Tala,Rosario del Tala,Juzgado de Feria,PASE DIRECTO - ROSARIO DEL TALA FERIA JUDICIAL .-,17&KJn4Jpq
+5db6c2ef8fbc56000b499005,sbenpaz,Paraná,San Benito,Juzgado de Paz de San Benito,PASE DIRECTO - SAN BENITO JUZGADO DE PAZ .-,17&KJseYJf
+60197d9f0cefd400099db5ef,chasjfpaz3,Chajarí,San Jaime de la Frontera,Juzgado de Paz de San Jaime de la Frontera,,
+5db6c30812c2d700094b3643,sjosepaz,Colón,San José,Juzgado de Paz de San José,PASE DIRECTO - SAN JOSE JUZGADO DE PAZ .-,17&KJ3fKad
+5d570287850c0000098d6a34,salcyc01,San Salvador,San Salvador,"Juzgado Civil, Comercial y Laboral","PASE DIRECTO - SAN SALVADOR JUZGADO CIVIL, COMERCIAL Y DE TRABAJO .-",17&KJnQdlN
+5d57031f850c000009922aa7,salpaz01,San Salvador,San Salvador,Juzgado Paz 1,PASE DIRECTO - SAN SALVADOR JUZGADO DE PAZ .-,17&KJgxiOu
+5e09e475a564b5000a897087,salferia,San Salvador,San Salvador,Juzgado de Feria,PASE DIRECTO - SAN SALVADOR FERIA JUDICIAL .-,17&KJgkZLy
+5e05e400a564b5000a7aa29c,selenapaz,La Paz,Santa Elena,Juzgado de Paz de Santa Elena,PASE DIRECTO - SANTA ELENA JUZGADO DE PAZ .-,17&KJJ0jZO
+60197db141c13900074045d1,fedlunapaz2,Federal,Sauce de Luna,Juzgado de Paz de Sauce de Luna,,
+60197dd7b3966400085e8778,parsegpaz3,Paraná,Seguí,Juzgado de Paz de Seguí,,
+60197da20cefd400099db5f4,uruubapaz3,Colón,Ubajay,Juzgado de Paz de Ubajay,,
+5e05e46ca564b5000a7ab296,vialepaz,Paraná,Viale,Juzgado de Paz de Viale,PASE DIRECTO - VIALE JUZGADO DE PAZ .-,17&KJK6Nyb
+5d5702ae850c0000098f21d9,vicpaz01,Victoria,Victoria,Juzgado de Paz 01,PASE DIRECTO - VICTORIA JUZGADO DE PAZ .-,17&KJNdSH5
+5d5703fa850c0000099a7dbb,viccyc01,Victoria,Victoria,Juzgado Civil y Comercial,PASE DIRECTO - VICTORIA JUZGADO CIVIL Y COMERCIAL .-,17&KJR7GYT
+5d57053a850c000009a4dc9d,vicfam01,Victoria,Victoria,"Juzgado de Familia, Civil y Penal de Menores","PASE DIRECTO - VICTORIA JUZGADO DE FAMILIA, CIVIL Y PENAL DE MENORES .-",17&KJ90hYF
+5d5833e8850c000009556c2f,vicgar01,Victoria,Victoria,Juzgado de Garantías,PASE DIRECTO - VICTORIA JUZGADO DE TRANSICION Y GARANTIAS .-,17&KJWr3wZ
+5e09e488a564b5000a89742b,vicferia,Victoria,Victoria,Juzgado de Feria,PASE DIRECTO - VICTORIA FERIA JUDICIAL .-,17&KJcaiuR
+60197df141c13900074047ec,vilvclapaz3,Villaguay,Villa Clara,Juzgado de Paz de Villa Clara,,
+60197df3f6d37700096810b8,vilvdompaz3,Villaguay,Villa Dominguez,Juzgado de Paz de Villa Dominguez,,
+5db6c3488fbc56000b49a17f,velipaz,Colón,Villa Elisa,Juzgado de Paz de Villa Elisa,PASE DIRECTO - VILLA ELISA JUZGADO DE PAZ .-,17&KJ1q&kS
+60197deb41c13900074047b5,uruvmanpaz3,Uruguay,Villa Mantero,Juzgado de Paz de Villa Mantero,,
+5d9213db8b8d00000a1f8981,pcitomultif,Islas del Ibicuy,Villa Paranacito,"Juzgado Civil, Comercial y del Trabajo","PASE DIRECTO - VILLA PARANACITO - JUZGADO CIVIL, COMERCIAL Y DEL TRABAJO .-",17&KJgIG3N
+5d9214508b8d00000a1fc35c,pcitopaz,Islas del Ibicuy,Villa Paranacito,Juzgado de Paz,PASE DIRECTO - VILLA PARANACITO - JUZGADO DE PAZ .-,17&KJZZ3&3
+60197dee41c13900074047d9,uruvsmpaz3,Uruguay,Villa San Marcial,Juzgado de Paz de Villa San Marcial,,
+60197dd9b3966400085e8779,parvupaz3,Paraná,Villa Urquiza,Juzgado de Paz de Villa Urquiza,,
+5d5702a7850c0000098ed2ed,vilcyc01,Villaguay,Villaguay,Juzgado Civil y Comercial 1,PASE DIRECTO - VILLAGUAY JUZGADO CIVIL Y COMERCIAL N°1 .-,17&KJKBpyP
+5d57033c850c000009932ed4,vilcyc02,Villaguay,Villaguay,Juzgado Civil y Comercial 2,PASE DIRECTO - VILLAGUAY JUZGADO CIVIL Y COMERCIAL N°2 .-,17&KJgCurd
+5d5703fa850c0000099a7db1,vilfam01,Villaguay,Villaguay,Juzgado de Familia y Penal de Niños y Adolescentes,PASE DIRECTO - VILLAGUAY JUZGADO DE FAMILIA Y PENAL DE MENORES .-,17&KJlnAfL
+5d570575850c000009a64b9c,vilapaz01,Villaguay,Villaguay,Juzgado de Paz,PASE DIRECTO - VILLAGUAY JUZGADO DE PAZ .-,17&KJtC2VA
+5d580a45850c000009d09975,vilgar01,Villaguay,Villaguay,Juzgado de Garantia y Transición,PASE DIRECTO - VILLAGUAY JUZGADO DE GARANTIAS Y TRANSICION .-,17&KJBSJat
+5e09e4b1a564b5000a897d52,vilferia,Villaguay,Villaguay,Juzgado de Feria,PASE DIRECTO - VILLAGUAY FERIA JUDICIAL .-,17&KJK2ONs
