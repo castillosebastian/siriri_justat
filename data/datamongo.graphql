@@ -1,0 +1,390 @@
+enum Fuero {
+  Civil
+  Penal
+  Ruaer
+}
+
+enum Realm {
+  Mpd
+  Mpf
+  Stj
+}
+
+enum Provincia {
+  BuenosAires 
+  CapitalFederal
+  Catamarca
+  Chaco
+  Chubut
+  Cordoba
+  Corrientes
+  EntreRios
+  Formosa
+  Jujuy
+  LaPampa
+  LaRioja
+  Mendoza
+  Misiones
+  Neuquen
+  RioNegro
+  Salta
+  SanJuan
+  SanLuis
+  SantaCruz
+  SantaFe
+  SantiagodelEstero
+  TierradelFuego
+  Tucuman
+}
+
+type EstadoExpediente @db(name: "estados_expedientes") {
+  id: ID! @id
+  fuero: Fuero
+  estado: String!
+  realm: Realm
+  habilitado : Boolean
+}
+
+type EstadoSiriri @embedded {
+  id: ID! @id
+  fecha:  DateTime
+  estado : EstadoExpediente! @relation(name: "EstadoExpediente", link: INLINE)
+}
+
+type Expediente @db(name: "expedientes") {
+  id: ID! @id
+  revision: Int
+  grupo: GrupoExpediente!
+  carpeta: String
+  caratula: String
+  observaciones: String
+  fechaFinalizacion: DateTime
+  fechaHecho: DateTime
+  lugarHecho: String
+  nro: NumeroExpediente!
+  lex_id: ExpedienteKey! @unique
+  estado: [String!]!
+  estado_salida: String
+  salida_desde: DateTime
+  salidas: [Salida!]!
+  tipo_proceso: TipoProceso!
+  actora: String @index
+  demandada: String @index
+  inicio: DateTime
+  creacion: DateTime @createdAt
+  modificacion: DateTime @updatedAt
+  justiciables: [Justiciable!]!
+  movimientos: [Movimiento!]!
+  datos_organismo: ExpedienteOrganismo!
+  organismo: Organismo! @relation(name: "Organismo", link: INLINE)
+  organismos_vinculados: [Organismo!] @relation(name: "OrganismosVinculados", link: INLINE)
+  nivel_acceso: Int
+  responsable: Responsable
+  dependencias: [Dependencia!]
+  eliminado: Boolean
+  almacenamiento: String
+  estado_siriri : [EstadoSiriri!]
+  origen_fecha_inicio : DateTime
+  origen_dependencia: DependenciaSiriri @relation(name: "OrigenDependencia", link: INLINE)
+}
+
+enum GrupoExpediente {
+  EnTramite
+  Archivado
+}
+
+type ExpedienteKey @embedded {
+  proc: String!
+  codigo_organismo: String!
+}
+
+type Estado @embedded {
+  estado: String
+  descripcion: [String!]!
+}
+type NumeroExpediente @embedded {
+  exp0: String
+  exp1: String
+  exp2: String
+  exp3: String
+}
+
+type ExpedienteOrganismo @embedded {
+  jurisdiccion: String!
+  localidad: String!
+  nombre_organismo: String!
+  id_organismo: String!
+}
+
+type Salida @embedded {
+  lex_id: String
+  fecha_salida: DateTime
+  fecha_regreso: DateTime
+  descripcion: String
+  observaciones: String
+}
+
+type Organismo @db(name: "organismos") {
+  id: ID! @id
+  codigo: String! @unique
+  jurisdiccion: String!
+  localidad: String!
+  nombre: String!
+  opciones: Json
+  carpetas: CarpetasOrganismo @relation(name: "Carpetas")
+  carpetas_agenda: CarpetasOrganismo @relation(name: "CarpetasAgenda")
+  carpetas_modelo: CarpetasOrganismo @relation(name: "CarpetasModelo")
+  destino_de_pase: String
+  email: String
+}
+
+type CarpetasOrganismo @embedded {
+  A: String
+  B: String
+  C: String
+  D: String
+  E: String
+  F: String
+  G: String
+  H: String
+  I: String
+  J: String
+  K: String
+  L: String
+  M: String
+  N: String
+  O: String
+}
+
+type TipoProceso @embedded {
+  tipo: String!
+  padres: [String!]!
+  lex_id: String
+}
+
+type TipoExpediente {
+  id: ID! @id
+  lex_id: String!
+  nivel1: String
+  nivel2: String
+  nivel3: String
+}
+
+type Justiciable @embedded {
+  apellidos: String
+  nombres: String
+  tipo_documento: String
+  documento: String @index
+  caracter: String
+  lex_id: String
+  abogados: [CaracterAbogado!]!
+}
+
+type CaracterAbogado @embedded {
+  lex_id: String
+  nombre_completo: String!
+  caracter: String
+  abogado: Abogado @relation(link: INLINE)
+}
+type Movimiento @embedded {
+  id: ID! @id
+  lex_id: String! @index
+  descripcion: String!
+  fecha_hora: DateTime!
+  fecha_procesal: DateTime
+  fecha_creacion: DateTime
+  archivo: Archivo
+  registros: [String!]!
+  publico: Boolean
+  fojas: String
+  tipo: String
+  origen: Organismo @relation(name: "Origen")
+  destinos: [Organismo!] @relation(name: "Destino")
+  medadatos: [MetadatosMovimiento!] @relation(name: "Metadatos")
+  requiereRespuesta: Boolean
+  enRespuestaDe: ID
+  oculto_mesa_virtual: Boolean
+  caracteres_no_notificar: [String!]
+  responsable: Responsable
+}
+
+type MovimientoNoProcesal {
+  id: ID! @id
+  lex_id: String! @index
+  expediente: Expediente! @relation(link: INLINE)
+  descripcion: String!
+  fecha_hora: DateTime!
+  archivo: Archivo
+  fojas: String
+}
+
+type PendienteExpediente {
+  id: ID! @id
+  expediente: Expediente! @relation(link: INLINE)
+  carpeta: String
+  organismo: Organismo! @relation(link: INLINE)
+  state_machine: String
+  estado: String
+}
+
+type PendienteOrganismo {
+  id: ID! @id
+  organismo: Organismo! @relation(link: INLINE)
+  state_machine: String
+  estado: String
+}
+
+type Archivo @embedded {
+  id: ID! @id
+  tipo: String
+  lex_md5: String
+  size: Int
+  texto: String
+}
+
+type Abogado @db(name: "abogados") {
+  id: ID! @id
+  lex_id: String @unique
+  apellidos: String! @index
+  nombres: String!
+  documento: String @index
+  telefono: String
+  ciudad: String
+  direccion: String
+  email: String
+  grupo: String
+}
+
+type Notificacion @db(name: "notificaciones") {
+  id: ID! @id
+  destino: ID!
+  destino_lex_id: String
+  destino_nombre: String
+  fecha_hora: DateTime
+  leida: DateTime
+  notificacion_automatica: DateTime
+  info_gestion: String
+  enviada: DateTime @createdAt
+  email_enviado: DateTime
+  descripcion: String
+  md5_documento: String
+  tipo_documento: String
+  tamanio_documento: Int
+  expediente: ID
+  expediente_lex_id: ExpedienteKey
+  movimiento: ID
+  movimiento_lex_id: String
+  datos_organismo: ExpedienteOrganismo!
+  organismo: Organismo! @relation(link: INLINE)
+  nro: NumeroExpediente!
+  actora: String @index
+  demandada: String @index
+}
+
+type Presentacion @db(name: "presentaciones") {
+  id: ID! @id
+  revision: Int
+  fecha_hora: DateTime
+  descripcion: String
+  documento: String
+  tipo_documento: String
+  hash_sha256: String
+  tamanio_documento: Int
+  expediente: ID
+  expediente_lex_id: ExpedienteKey
+  movimiento: ID
+  movimiento_lex_id: String
+  codigo_organismo: String
+  organismo: Organismo! @relation(link: INLINE)
+  nro: NumeroExpediente
+  datos_organismo: ExpedienteOrganismo!
+  origen: ID!
+  origen_lex_id: String
+  origen_nombre: String
+  estado: String @default(value: "pendiente")
+  respuesta: RespuestaPresentacion
+  caratula: String
+  observacion: String
+}
+
+type RespuestaPresentacion @embedded {
+  fecha: DateTime!
+  descripcion: String!
+  texto: String!
+  lex_id: String!
+}
+
+type Responsable @embedded {
+  lex_id: String
+  nombre: String
+  dni: String
+}
+
+type Dependencia @embedded {
+  lex_id: String
+  dependencia: String
+  observaciones: String
+  direccion: String
+  ciudad: String
+  cp: String
+  provincia: String
+  telefono: String
+  mail: String
+}
+
+type Novedad @db(name: "novedades") {
+  id: ID! @id
+  destino_rol: String!
+  destino_id: String
+  fecha: DateTime!
+  leida: DateTime
+  categoria: String
+  subject: String
+  texto: String
+  email: String
+  path_manejo: String
+  metadata_manejo: Json
+}
+
+type MetadatosMovimiento @embedded {
+  data: Json
+  schema: MetadatosMovimientoSchema! @relation(link: INLINE)
+}
+
+type MetadatosMovimientoSchema @db(name: "movimientos_metadatos_schemas") {
+  id: ID! @id
+  schema: Json!
+  uiSchema: Json
+  nombre: String
+  descripcion: String
+  version: String
+}
+
+type ModeloEscrito @db(name: "modelos") {
+  id: ID! @id
+  titulo: String!
+  descripcion: String
+  carpeta: String
+  contenido: String!
+  organismo: Organismo @relation(link: INLINE)
+  tipo_proceso: TipoProceso
+  form: ModeloFormulario
+}
+
+type ModeloFormulario @embedded {
+  schema: Json!
+  uiSchema: Json
+  data: Json
+}
+
+type DependenciaSiriri @db(name : "dependencias") {
+  id: ID! @id
+  lex_id: String
+  dependencia: String
+  telefono: String
+  mail: String
+  direccion: String
+  ciudad: String
+  cp: String
+  provincia: Provincia!
+}

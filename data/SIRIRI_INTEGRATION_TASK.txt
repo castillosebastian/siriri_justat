@@ -1,0 +1,12 @@
+-Tareas: 
+	Armar modelo de Registros
+	
+
+
+Notas sobre MongoDB
+
+-coleccion: presentaciones
+	Contiene los indices
+-expediente: movimientos
+
+
