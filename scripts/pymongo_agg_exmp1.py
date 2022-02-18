@@ -24,34 +24,6 @@ movies = bd['movies']
 # Get the document with the title 'Blacksmith Scene':
 pprint(movies.find_one({'title': 'Blacksmith Scene'}))
 
-# Insertar Documento (no funcionó)
-insert_result = movies.insert_one({
-      "title": "Parasite",
-      "year": 2020,
-      "plot": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. "
-      "But their easy life gets complicated when their deception is threatened with exposure.",
-      "released": datetime(2020, 2, 7, 0, 0, 0),
-   })
-
-# try firs query
-pipeline = [
-  {
-    '$match': {
-      'awards': '/Won \d{1,2} Oscars?/'
-    }
-  },
-  {
-    '$group': {
-      '_id': 'null',
-      'highest_rating': { '$max': "$imdb.rating" },
-      'lowest_rating': { '$min': "$imdb.rating" },
-      'average_rating': { '$avg': "$imdb.rating" },
-      'deviation': { '$stdDevSamp': "$imdb.rating" }
-    }
-  }
-]
-
-# ---
 # https://www.mongodb.com/developer/quickstart/python-quickstart-aggregation/
 
 pipeline = [
@@ -76,7 +48,8 @@ for movie in results:
    ))
 
 
-# otra forma
+# 
+
 # Match title = "A Star Is Born":
 stage_match_title = {
    "$match": {
