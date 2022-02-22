@@ -6,6 +6,7 @@ import os
 import nltk
 # data visualization
 import matplotlib.pyplot as plt
+from pytz import timezone
 import seaborn as sns
 import matplotlib.dates as mdates
 from matplotlib import collections
@@ -41,28 +42,24 @@ import os
 # From Mongo to Pandas
 # https://docs.mongodb.com/manual/reference/operator/aggregation/setWindowFields/?_ga=2.230420636.1035413487.1644869335-438496097.1644675676
 # https://www.mongodb.com/developer/quickstart/pymongoarrow-and-data-analysis/
-
+# Windows calculation for smoth lines
+# https://www.mongodb.com/developer/article/window-functions-and-time-series/#:~:text=Window%20functions%20allow%20you%20to,working%20with%20time%2Dseries%20data.
 
 #%% client = MongoClient()
 client = MongoClient('mongodb://10.101.2.97:27017/?readPreference=primary&ssl=false')
 bd = client["expedientes_production"]
 collections = bd.list_collection_names()
 expedientes = bd['expedientes'] 
-for collection in collections:
-    print(collection)
  
 #%% Variables
 from datetime import datetime
 start_date = datetime(2021, 2, 1)
 end_date = datetime(2021, 2, 28)
 
-#%% Analizando estadística de consulta 
-
-# expedientes.create_index('inicio') # SE CREO INDICE SOBRE 'INICIADOS'
-
 #%% Get the documents betwen dates:
 pipeline = [
    {
+      # filtro por fecha
       "$match": {
          "inicio": {
             '$gte': start_date,
@@ -70,18 +67,36 @@ pipeline = [
          }
       }
    }, {
-      "$group": {
-         "_id": {
-            'organismo': '$lex_id.codigo_organismo',            
-            'tipo_proceso': '$tipo_proceso.tipo'
-            },
+      # excluyo no procesos
+      # OJO ESTAN PASANDO LOS PLURALES DE LOS NO PROCESOS
+      '$lookup': {
+         'from': 'no_procesos', 
+         'localField': 'tipo_proceso.tipo', 
+         'foreignField': 'item', 
+         'as': 'temp'
+      }
+    }, {
+      '$match': {
+         'temp': {
+            '$size': 0
+         }
+      }
+    }, {
+       # agrupo
+       "$group": {
+          "_id": {
+             # agrupar por fecha, organismo y tipo de proceso
+             'fecha_inicio': '$inicio',
+             'organismo': '$lex_id.codigo_organismo',
+             'tipo_proceso': '$tipo_proceso.tipo', 
+          },
          # Count the number instances in the group:         
          "cantidad_iniciados": {
-             "$sum": 1
-             }, 
+            "$sum": 1
+         }, 
          'causa': {
-            '$addToSet': '$nro'
-            }
+            '$addToSet': '$_id' #identifica dato primario
+         }               
       }
    }, {
       '$sort': {
@@ -91,51 +106,76 @@ pipeline = [
 ]
 results = expedientes.aggregate(pipeline)
 for i in results:
-   print(i)
+   pprint(i)
+
+#%%
+# Procesar grupos de procesos:
+# db.myColl.aggregate( [ { $addFields: { results: { $regexMatch: { input: "$category", regex: /cafe/ }  } } } ] )
 
 
-##############################
-# TO DO
-##############################
-#%% Look up 
-# Procesamiento por Grupo de Proceso
-stage_lookup_comments = {
-   "$lookup": {
-         "from": "comments",
-         "localField": "_id",
-         "foreignField": "movie_id",
-         "as": "related_comments",
-   }
-}
-results = movies.aggregate(pipeline)
-for movie in results:
-   pprint(movie)
+#%% Get the documents betwen dates:
+from datetime import datetime, timezone
 
-#%% Calculate the number of movimientos:
-stage_conteo_movimientos = {
-   "$addFields": {
-         "movimientos_periodo": {
-            "$size": "$movimientos"
+start_date = datetime(2021, 2, 1, 0, 0, 0,   tzinfo = timezone.utc)
+end_date = datetime(2021, 2, 28, 0, 0, 0, tzinfo = timezone.utc)
+
+pipeline = [
+   {
+      # filtro por fecha
+      "$match": {
+         "inicio": {
+            '$gte': start_date,
+            '$lte': end_date
          }
-   }
-}
-
-#%% Match documents with more than 2 movimientos:
-stage_match_with_comments = {
-   "$match": {
-         "comment_count": {
-            "$gt": 2
+      }
+   }, {
+      # excluyo no procesos
+      # OJO ESTAN PASANDO LOS PLURALES DE LOS NO PROCESOS
+      '$lookup': {
+         'from': 'no_procesos', 
+         'localField': 'tipo_proceso.tipo', 
+         'foreignField': 'item', 
+         'as': 'temp'
+      }
+    }, {
+      '$match': {
+         'temp': {
+            '$size': 0
          }
+      }
+    }, {
+       # agrupo
+       "$group": {
+          "_id": {
+             # agrupar por fecha, organismo y tipo de proceso
+             'fecha_inicio': '$inicio',
+             'organismo': '$lex_id.codigo_organismo',
+             'tipo_proceso': '$tipo_proceso.tipo', 
+          },
+         # Count the number instances in the group:         
+         "cantidad_iniciados": {
+            "$sum": 1
+         },         
+         'causa': {
+            '$addToSet': '$_id' #identifica dato primario
+         }        
+      }
+   }, {
+        '$lookup': {
+            'from': 'organismos', 
+            'localField': '_id.organismo_codigo', 
+            'foreignField': 'codigo', 
+            'as': 'datos_org'
+        }
+   }, {
+      '$sort': {
+         '_id.organismo':1
+      }
    }
-}   
+]
 
-#%% Limit to the first 5 documents:
-stage_limit_5 = { "$limit": 5 }
-for movie in results:
-   print(movie["title"])
-   print("Comment count:", movie["comment_count"])
-   # Loop through the first 5 comments and print the name and text:
-   for comment in movie["related_comments"][:5]:
-         print(" * {name}: {text}".format(
-            name=comment["name"],
-            text=comment["text"]))
+results = expedientes.aggregate(pipeline)
+for i in results:
+   pprint(i)
+
+  

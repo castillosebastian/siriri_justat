@@ -94,3 +94,14 @@ stage_match_with_comments = {
          }
    }
 }   
+
+#%% Limit to the first 5 documents:
+stage_limit_5 = { "$limit": 5 }
+for movie in results:
+   print(movie["title"])
+   print("Comment count:", movie["comment_count"])
+   # Loop through the first 5 comments and print the name and text:
+   for comment in movie["related_comments"][:5]:
+         print(" * {name}: {text}".format(
+            name=comment["name"],
+            text=comment["text"]))
