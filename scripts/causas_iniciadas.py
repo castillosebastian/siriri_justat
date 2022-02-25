@@ -115,7 +115,6 @@ for i in results:
 
 #%% Get the documents betwen dates:
 from datetime import datetime, timezone
-
 start_date = datetime(2021, 2, 1, 0, 0, 0,   tzinfo = timezone.utc)
 end_date = datetime(2021, 2, 28, 0, 0, 0, tzinfo = timezone.utc)
 
@@ -157,7 +156,7 @@ pipeline = [
             "$sum": 1
          },         
          'causa': {
-            '$addToSet': '$_id' #identifica dato primario
+            '$push': '$_id' # push con identificador dato primario
          }        
       }
    }, {
@@ -178,4 +177,53 @@ results = expedientes.aggregate(pipeline)
 for i in results:
    pprint(i)
 
-  
+# CIniciadas primera instancia: filtrar por fecha inicio y facetar por grupos
+# 
+# jdos civiles, familia y laborales
+# jdos paz
+# cam cont adm
+# garantías
+# ....
+
+
+
+# Agrupo por niveles arriba del tipo_proceso
+[
+    {
+        '$match': {
+            'inicio': {
+                '$gte': datetime(2021, 2, 1, 0, 0, 0, tzinfo=timezone.utc), 
+                '$lte': datetime(2021, 2, 28, 0, 0, 0, tzinfo=timezone.utc)
+            }
+        }
+    }, {
+        '$limit': 50000
+    }, {
+        '$addFields': {
+            'firstElem': {
+                '$arrayElemAt': [
+                    '$tipo_proceso.padres', 0 # Primer Nivel
+                ]
+            }, 
+            'secondElem': {
+                '$arrayElemAt': [
+                    '$tipo_proceso.padres', 1 # Segundo Nivel
+                ]
+            }
+        }
+    }, {
+        '$group': {
+            '_id': {
+                'padre1': '$firstElem', 
+                'padre2': '$secondElem'
+            }, 
+            'conteo': {
+                '$sum': 1
+            }
+        }
+    }, {
+        '$sort': {
+            'n': 1
+        }
+    }
+]

@@ -1,0 +1,385 @@
+"organismo","organismo_descripcion","email_oficial","fuero","circunscripcion","localidad","categoria","tipo","materia","codigo_organismo"
+"camcco0000gch","Cam Apelaciones Civ y Com","camcyc-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"cam","cco","guacamape"
+"camcco0000uru","Cam Apelaciones Sala Civ y Com","salacyc-uru@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"cam","cco","urucamcyc"
+"camcco0100con","Cam Apelaciones Sala Civ y Com I","salacyc-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"cam","cco","consalaciv01"
+"camcco0200con","Cam Apelaciones Sala Civ y Com II","salacycs2-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"cam","cco","consalaciv02"
+"camcco0201pna","Cam Apelaciones II Sala I","camcycs1-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"cam","cco","parccs01"
+"camcco0202pna","Cam Apelaciones II Sala II","camcycs2-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"cam","cco","parccs02"
+"camcco0203pna","Cam Apelaciones II Sala III","camcycs3-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"cam","cco","parcts02"
+"camlab0000con","Cam Apelaciones Sala Laboral","salalab-con@jusentrerios.gov.ar","Laboral","Concordia","Concordia",NA,"cam","lab","consalalab"
+"camlab0000gch","Cam Apelaciones Sala Laboral","camlab-gchu@jusentrerios.gov.ar","Laboral","Gualeguaychú","Gualeguaychú",NA,"cam","lab","guacamapelab"
+"camlab0000uru","Cam Apelaciones Sala Laboral","salalab-uru@jusentrerios.gov.ar","Laboral","Uruguay","Concepción del Uruguay",NA,"cam","lab","urucamlab"
+"camlab0301pna","Cam Apelaciones III Sala I","camlabs1-pna@jusentrerios.gov.ar","Laboral","Paraná","Paraná",NA,"cam","lab","parcts01"
+"camlab0302pna","Cam Apelaciones III Sala II","camlabsala2-pna@jusentrerios.gov.ar","Laboral","Paraná","Paraná",NA,"cam","lab","parctrs02"
+"campen0000pna","Cam de Casación Penal","camaracasacionpenal-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"cam","pen","parcamcasacion"
+"cencco0000pna","Centro de Medios Alternativos Resolución de Conflictos","mediacion@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"cen","cco",NA
+"delpen0000con","Delegado Penitenciario",NA,"Penal","Concordia","Concordia",NA,"del","pen",NA
+"delpen0000gay","Delegado Penitenciario",NA,"Penal","Gualeguay","Gualeguay",NA,"del","pen",NA
+"delpen0000gch","Delegado Penitenciario",NA,"Penal","Gualeguaychú","Gualeguaychú",NA,"del","pen",NA
+"delpen0000pna","Delegado Penitenciario",NA,"Penal","Paraná","Paraná",NA,"del","pen",NA
+"delpen0001ur","Delegado Judicial",NA,"Penal","Tala","Rosario del Tala",NA,"del","pen",NA
+"delpen0101con","Delegado Judicial",NA,"Penal","Concordia","Concordia",NA,"del","pen",NA
+"delpen0102gay","Delegado Judicial",NA,"Penal","Gualeguay","Gualeguay",NA,"del","pen",NA
+"delpen0103gch","Delegado Judicial",NA,"Penal","Gualeguaychú","Gualeguaychú",NA,"del","pen",NA
+"delpen0104par","Delegado Judicial",NA,"Penal","Nogoyá","Nogoyá",NA,"del","pen",NA
+"delpen0105vic","Delegado Judicial",NA,"Penal","Victoria","Victoria",NA,"del","pen",NA
+"delpen0201uru","Delegado Judicial",NA,"Penal","Uruguay","Concepción del Uruguay",NA,"del","pen",NA
+"delpen0202con","Delegado Penitenciario",NA,"Penal","Concordia","Concordia",NA,"del","pen",NA
+"delpen0203gay","Delegado Penitenciario",NA,"Penal","Gualeguay","Gualeguay",NA,"del","pen",NA
+"delpen0204gch","Delegado Penitenciario",NA,"Penal","Gualeguaychú","Gualeguaychú",NA,"del","pen",NA
+"delpen0205pna","Delegado Penitenciario",NA,"Penal","Paraná","Paraná",NA,"del","pen",NA
+"delpen0206vic","Delegado Penitenciario",NA,"Penal","Victoria","Victoria",NA,"del","pen",NA
+"eincco0001cha","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Chajarí","Chajarí",NA,"ein","cco",NA
+"eincco0002col","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Colón","Colón",NA,"ein","cco",NA
+"eincco0003dia","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Diamante","Diamante",NA,"ein","cco",NA
+"eincco0004fed","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Federación","Federación",NA,"ein","cco",NA
+"eincco0005frl","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Federal","Federal",NA,"ein","cco",NA
+"eincco0006fel","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Feliciano","Feliciano",NA,"ein","cco",NA
+"eincco0007gay","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Gualeguay","Gualeguay",NA,"ein","cco",NA
+"eincco0008gch","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"ein","cco",NA
+"eincco0009lpa","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","La Paz","La Paz",NA,"ein","cco",NA
+"eincco0010nog","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Nogoyá","Nogoyá",NA,"ein","cco",NA
+"eincco0011tal","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Tala","Rosario del Tala",NA,"ein","cco",NA
+"eincco0012vic","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Victoria","Victoria",NA,"ein","cco",NA
+"eincco0013vil","Equipo Interdisciplinario del Fuero Familia y Menores",NA,"Civil y Comercial","Villaguay","Villaguay",NA,"ein","cco",NA
+"einpen0000gch","Equipo Interdisciplinario Jdo Ejec de Penas",NA,"Penal","Gualeguaychú","Gualeguaychú",NA,"ein","pen",NA
+"einpen0000pna","Equipo Interdisciplinario Jdo Ejec Penas",NA,"Penal","Paraná","Paraná",NA,"ein","pen",NA
+"einpen0100pna","Equipo Interdisciplinario -jdo Penal de Nya-",NA,"Penal","Paraná","Paraná",NA,"ein","pen",NA
+"equpen0001cha","Equipo de Probation",NA,"Penal","Chajarí","Chajarí",NA,"equ","pen",NA
+"equpen0002col","Equipo de Probation",NA,"Penal","Colón","Colón",NA,"equ","pen",NA
+"equpen0004con","Equipo de Probation","probation-concordia@jusentrerios.gov.ar","Penal","Concordia","Concordia",NA,"equ","pen",NA
+"equpen0005frl","Equipo de Probation",NA,"Penal","Federal","Federal",NA,"equ","pen",NA
+"equpen0006fed","Equipo de Probation",NA,"Penal","Federación","Federación",NA,"equ","pen",NA
+"equpen0007fel","Equipo de Probation",NA,"Penal","Feliciano","Feliciano",NA,"equ","pen",NA
+"equpen0008gay","Equipo de Probation","probation-gualeguay@jusentrerios.gov.ar","Penal","Gualeguay","Gualeguay",NA,"equ","pen",NA
+"equpen0009gch","Equipo de Probation","oficinaprobation-gchu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",NA,"equ","pen",NA
+"equpen0010lpa","Equipo de Probation","probation-lapaz@jusentrerios.gov.ar","Penal","La Paz","La Paz",NA,"equ","pen",NA
+"equpen0011nog","Equipo de Probation","probation-nogoya@jusentrerios.gov.ar","Penal","Nogoyá","Nogoyá",NA,"equ","pen",NA
+"equpen0013tal","Equipo de Probation",NA,"Penal","Tala","Rosario del Tala",NA,"equ","pen",NA
+"equpen0014vic","Equipo de Probation",NA,"Penal","Victoria","Victoria",NA,"equ","pen",NA
+"equpen0015vil","Equipo de Probation",NA,"Penal","Villaguay","Villaguay",NA,"equ","pen",NA
+"equpen0016uru","Equipo de Probation","probation-uru@jusentrerios.gov.ar","Penal","Uruguay","Concepción del Uruguay",NA,"equ","pen",NA
+"jdocco0000dia","Jdo Civ y Com Lab","jdocyc-dia@jusentrerios.gov.ar","Civil y Comercial","Diamante","Diamante",NA,"jdo","cco|lab","diacyc01"
+"jdocco0000fed","Jdo Civ y Com Lab Fam","jdocyc-fcion@jusentrerios.gov.ar","Civil y Comercial","Federación","Federación",NA,"jdo","cco|fam|lab","federacioncyc01"
+"jdocco0000frl","Jdo Civ y Com Lab","jdocyc-fral@jusentrerios.gov.ar","Civil y Comercial","Federal","Federal",NA,"jdo","cco|lab","fedcyc01"
+"jdocco0000ssa","Jdo Civ y Com Lab Fam","jdocyclab-ssdor@jusentrerios.gov.ar","Civil y Comercial","San Salvador","San Salvador",NA,"jdo","cco|fam|lab","salcyc01"
+"jdocco0000tal","Jdo Civ y Com -ccomp.Laboral","jdocyc-tala@jusentrerios.gov.ar","Civil y Comercial","Tala","Rosario del Tala",NA,"jdo","cco|lab","roscyc"
+"jdocco0000vic","Jdo Civ y Com -ccomp.Laboral","jdocyc-vic@jusentrerios.gov.ar","Civil y Comercial","Victoria","Victoria",NA,"jdo","cco|lab","viccyc01"
+"jdocco0000vpa","Jdo Civ Com y Lab","jdomf-ibic@jusentrerios.gov.ar","Civil y Comercial","Islas del Ibicuy","Villa Paranacito",NA,"jdo","cco|fam|lab","pcitomultif"
+"jdocco0100cha","Jdo Civ y Com 1 -ccomp.Laboral","jdocyc-cha@jusentrerios.gov.ar","Civil y Comercial","Chajarí","Chajarí",NA,"jdo","cco|lab","chacyc01"
+"jdocco0100col","Jdo Civ y Com 1","jdocyc1-col@jusentrerios.gov.ar","Civil y Comercial","Colón","Colón",NA,"jdo","cco","colcyc01"
+"jdocco0100con","Jdo Civ y Com 1","jdocyc1-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","cco","concivil01"
+"jdocco0100gay","Jdo Civ y Com 1","jdocycs1-gua@jusentrerios.gov.ar","Civil y Comercial","Gualeguay","Gualeguay",NA,"jdo","cco","uaycyc01"
+"jdocco0100gch","Jdo Civ y Com 1","jdocyc1-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","cco","guaciv01"
+"jdocco0100lpa","Jdo Civ y Com 1 -ccomp.Laboral","jdocycs1-lapaz@jusentrerios.gov.ar","Civil y Comercial","La Paz","La Paz",NA,"jdo","cco|lab","pazcyc01"
+"jdocco0100nog","Jdo Civ y Com 1 -ccomp.Laboral","jdocyc-nog@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Nogoyá",NA,"jdo","cco|lab","nogcyc01"
+"jdocco0100pna","Jdo Civ y Com 1","jdocyc1-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cco","parcyc01"
+"jdocco0100uru","Jdo Civ y Com 1","jdocyc1s1-uru@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"jdo","cco","uruciv01"
+"jdocco0100vil","Jdo Civ y Com 1 -ccomp.Laboral","jdocycs1-vil@jusentrerios.gov.ar","Civil y Comercial","Villaguay","Villaguay",NA,"jdo","cco|lab","vilcyc01"
+"jdocco0200cha","Jdo Civ y Com 2 -ccomp.Laboral","Jdocyc2-cha@jusentrerios.gov.ar","Civil y Comercial","Chajarí","Chajarí",NA,"jdo","cco|lab","chacyc02"
+"jdocco0200col","Jdo Civ y Com 2","jdocyc2-col@jusentrerios.gov.ar","Civil y Comercial","Colón","Colón",NA,"jdo","cco","colcyc02"
+"jdocco0200con","Jdo Civ y Com 2","jdocyc2-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","cco","concivil02"
+"jdocco0200gay","Jdo Civ y Com 2","jdocycs2-gua@jusentrerios.gov.ar","Civil y Comercial","Gualeguay","Gualeguay",NA,"jdo","cco","uaycyc02"
+"jdocco0200gch","Jdo Civ y Com 2","jdocyc2-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","cco","guaciv02"
+"jdocco0200lpa","Jdo Civ y Com 2 -ccomp.Laboral","jdocycs2-lapaz@jusentrerios.gov.ar","Civil y Comercial","La Paz","La Paz",NA,"jdo","cco|lab","pazcyc02"
+"jdocco0200nog","Jdo Civ y Com 2 -ccomp.Laboral","jdocyc2-nog@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Nogoyá",NA,"jdo","cco|lab","nogcyc02"
+"jdocco0200pna","Jdo Civ y Com 2","jdocyc2-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cco","parcyc02"
+"jdocco0200uru","Jdo Civ y Com 2","jdocyc2s3-uru@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"jdo","cco","uruciv02"
+"jdocco0200vil","Jdo Civ y Com 2 -ccomp.Laboral","jdocycs2-vil@jusentrerios.gov.ar","Civil y Comercial","Villaguay","Villaguay",NA,"jdo","cco|lab","vilcyc02"
+"jdocco0300con","Jdo Civ y Com 3","jdocyc3-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","cco","concivil03"
+"jdocco0300gch","Jdo Civ y Com 3","jdocyc3-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","cco","guaciv03"
+"jdocco0300pna","Jdo Civ y Com 3","jdocyc3-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cco","parcyc03"
+"jdocco0301uru","Jdo Civ y Com 3-sec.Ejecucion-","jdocyc3-pe@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"jdo","eje","uruciv03"
+"jdocco0302uru","Jdo Civ y Com 3-sec.CQuiebras-","jdocyc3-cyq@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"jdo","cqb",NA
+"jdocco0400con","Jdo Civ y Com 4","jdocyc4-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","cco","concivil04"
+"jdocco0400pna","Jdo Civ y Com 4","jdocyc4-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cco","parcyc04"
+"jdocco0500pna","Jdo Civ y Com 5","jdocyc5-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cco","parcyc05"
+"jdocco0501con","Jdo Civ y Com 5-sec1 CQE-","jdocyc5s1-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","eje|cqb","concivil05"
+"jdocco0502con","Jdo Civ y Com 5-sec2 CQE-","jdocyc5s2-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","eje|cqb",NA
+"jdocco0600con","Jdo Civ y Com 6","jdocyc6-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","cco","concivil06"
+"jdocco0600pna","Jdo Civ y Com 6","jdocyc6-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cco","parcyc06"
+"jdocco0700pna","Jdo Civ y Com 7","jdocyc7-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cco","parcyc07"
+"jdocco0800pna","Jdo Civ y Com 8","jdocyc8-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cco","parcyc08"
+"jdocco0901pna","Jdo Civ y Com 9 Sec 1","jdocyc9-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cqb","parcyc09"
+"jdocco0902pna","Jdo Civ y Com 9 Sec 2","jdocyc9s2-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","cqb",NA
+"jdocco1001pna","Jdo Civ y Com 10 Sec 1","jdocyc10s1-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","eje","parcyc10"
+"jdocco1002pna","Jdo Civ y Com 10 Sec 2","matencio@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","eje",NA
+"jdofam0000cha","Jdo Fam Pen Niñ Ado","jdofamilia-cha@jusentrerios.gov.ar","Civil y Comercial","Chajarí","Chajarí",NA,"jdo","fam|pen","chafam01"
+"jdofam0000dia","Jdo Fam Pen Niñ Ado","jdofliamen-dia@jusentrerios.gov.ar","Civil y Comercial","Diamante","Diamante",NA,"jdo","fam|pen","diafam01"
+"jdofam0000fel","Jdo Fam y Men","jdofliamen1-fel@jusentrerios.gov.ar","Civil y Comercial","Feliciano","Feliciano",NA,"jdo","fam|pen","famfel02"
+"jdofam0000frl","Juzgado de Familia y Menores","jdofamilia-fral@jusentrerios.gov.ar","Civil y Comercial","Federal","Federal",NA,"jdo","fam|pen","fedfis01"
+"jdofam0000gay","Jdo Fam","jdofliamen-gua@jusentrerios.gov.ar","Civil y Comercial","Gualeguay","Gualeguay",NA,"jdo","fam|pen","uayfam01"
+"jdofam0000lpa","Jdo Fam Pen Niñ Ado","jdofliamen1-lapaz@jusentrerios.gov.ar","Civil y Comercial","La Paz","La Paz",NA,"jdo","fam|pen","pazflia01"
+"jdofam0000nog","Jdo Fam y Pen Menores","jdofliamen-nog@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Nogoyá",NA,"jdo","fam|pen","nogflia01"
+"jdofam0000tal","Jdo Fam Pen Niñ Ado","jdofliamen-tala@jusentrerios.gov.ar","Civil y Comercial","Tala","Rosario del Tala",NA,"jdo","fam|pen","rosfamilia"
+"jdofam0000vic","Jdo Fam Pen Niñ Ado","jdofliapen-vic@jusentrerios.gov.ar","Civil y Comercial","Victoria","Victoria",NA,"jdo","fam|pen","vicfam01"
+"jdofam0000vil","Jdo Fam y Menores","jdofliapen-vil@jusentrerios.gov.ar","Civil y Comercial","Villaguay","Villaguay",NA,"jdo","fam|pen","vilfam01"
+"jdofam0001col","Jdo Fam Pen N.A. Sec1","jdofliamens1-col@jusentrerios.gov.ar","Civil y Comercial","Colón","Colón",NA,"jdo","fam|pen","colfam01"
+"jdofam0001gch","Jdo Fam Pen Niñ Ado Sec 1","jdofliamens1-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","fam|pen",NA
+"jdofam0100uru","Jdo Fam Pen Niñ Ado 1","jdofliamens1-uru@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"jdo","fam|pen","urufam01"
+"jdofam0200uru","Jdo Fam Pen Niñ Ado 2","jdofliamens2-uru@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"jdo","fam|pen","urufam02"
+"jdofam0002col","Jdo Fam Pen N.A. Sec2","jdofliamens2-col@jusentrerios.gov.ar","Civil y Comercial","Colón","Colón",NA,"jdo","fam|pen",NA
+"jdofam0002gch","Jdo Fam Pen Niñ Ado Sec 2","jdofliamens2-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","fam|pen",NA
+"jdofam0100pna","Jdo Familia 1","jdofamilia1-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","fam","parfam01"
+"jdofam0101con","Jdo Fam Pen Niñ Ado 1 -secr 1-","jdofliamen1s1-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","fam",NA
+"jdofam0102con","Jdo Fam Pen Niñ Ado 1 -secr 2-",NA,"Civil y Comercial","Concordia","Concordia",NA,"jdo","fam|pen",NA
+"jdofam0200pna","Jdo Familia 2","jdofamilia2-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","fam","parf02flia"
+"jdofam0201con","Jdo Fam Pen Niñ Ado 2 -secr 1-","jdofliamen2-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","fam",NA
+"jdofam0202con","Jdo Fam Pen Niñ Ado 2 -secr 2 -","jdofliamen1s2-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","fam|pen",NA
+"jdofam0300pna","Jdo Familia 3","jdofamilia3-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","fam","parf02asis"
+"jdofam0400pna","Jdo Familia 4","jdofamilia4-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"jdo","fam","parfam04s4"
+"jdolab0000gay","Jdo Laboral","jdolaboral-gua@jusentrerios.gov.ar","Laboral","Gualeguay","Gualeguay",NA,"jdo","lab","uaylaboral"
+"jdolab0100gch","Jdo Laboral 1","jdolab1-gchu@jusentrerios.gov.ar","Laboral","Gualeguaychú","Gualeguaychú",NA,"jdo","lab","gualab01"
+"jdolab0100pna","Jdo Laboral 1","jdolab1-pna@jusentrerios.gov.ar","Laboral","Paraná","Paraná",NA,"jdo","lab","parlab01"
+"jdolab0100uru","Jdo Laboral 1","jdolab1-uru@jusentrerios.gov.ar","Laboral","Uruguay","Concepción del Uruguay",NA,"jdo","lab","urulab01"
+"jdolab0200con","Jdo Laboral 2","jdolab2-con@jusentrerios.gov.ar","Laboral","Concordia","Concordia",NA,"jdo","lab","conlab02"
+"jdolab0200gch","Jdo Laboral 2","jdolab2-gchu@jusentrerios.gov.ar","Laboral","Gualeguaychú","Gualeguaychú",NA,"jdo","lab","gualab02"
+"jdolab0200pna","Jdo Laboral 2","jdolab2-pna@jusentrerios.gov.ar","Laboral","Paraná","Paraná",NA,"jdo","lab","parlab02"
+"jdolab0200uru","Jdo Laboral 2","jdolab2-uru@jusentrerios.gov.ar","Laboral","Uruguay","Concepción del Uruguay",NA,"jdo","lab","urulabo02"
+"jdolab0300con","Jdo Laboral 3","jdolab3-con@jusentrerios.gov.ar","Laboral","Concordia","Concordia",NA,"jdo","lab","conlab03"
+"jdolab0300gch","Jdo Laboral 3","jdolab3-gchu@jusentrerios.gov.ar","Laboral","Gualeguaychú","Gualeguaychú",NA,"jdo","lab","gualab03"
+"jdolab0300pna","Jdo Laboral 3","jdolab3-pna@jusentrerios.gov.ar","Laboral","Paraná","Paraná",NA,"jdo","lab","parlab03"
+"jdolab0300uru","Jdo Laboral 3","jdolab3-uru@jusentrerios.gov.ar","Laboral","Uruguay","Concepción del Uruguay",NA,"jdo","lab","urulabo03"
+"jdolab0400con","Jdo Laboral 4","jdolab4-con@jusentrerios.gov.ar","Laboral","Concordia","Concordia",NA,"jdo","lab","conlab04"
+"jdolab0400pna","Jdo Laboral 4","jdolab4-pna@jusentrerios.gov.ar","Laboral","Paraná","Paraná",NA,"jdo","lab","parlab04"
+"jdopaz0000alc","Jdo Paz Alcaraz","jdopazcat3-alca@jusentrerios.gov.ar","Civil y Comercial","La Paz","Alcaraz",3,"jdo","paz",NA
+"jdopaz0000bas","Jdo Paz Basavilbaso","jdopazcat2-baso@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Basavilbaso",2,"jdo","paz",NA
+"jdopaz0000bov","Jdo de Paz Bovril","jdopazcat2-bov@jusentrerios.gov.ar","Civil y Comercial","La Paz","Bovril",2,"jdo","paz","bovpaz"
+"jdopaz0000cas","Jdo Paz Caseros","jdopazcat3-cas@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Caseros",3,"jdo","paz",NA
+"jdopaz0000cei","Jdo Paz Ceibas","jdopazcat3-cei@jusentrerios.gov.ar","Civil y Comercial","Islas del Ibicuy","Ceibas",3,"jdo","paz",NA
+"jdopaz0000cer","Jdo Paz Cerrito","jdopazcat2-cer@jusentrerios.gov.ar","Civil y Comercial","Paraná","Cerrito",2,"jdo","paz",NA
+"jdopaz0000cha","Jdo Paz Chajarí","jdopazcat1-cha@jusentrerios.gov.ar","Civil y Comercial","Chajarí","Chajarí",1,"jdo","paz","chapaz01"
+"jdopaz0000col","Jdo Paz Colón","jdopazcat1-col@jusentrerios.gov.ar","Civil y Comercial","Colón","Colón",1,"jdo","paz","colpaz01"
+"jdopaz0000con","Jdo Paz Concordia","jdopazcat1-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",1,"jdo","paz","conpaz01"
+"jdopaz0000cre","Jdo Paz Crespo","jdopazcat2-cre@jusentrerios.gov.ar","Civil y Comercial","Paraná","Crespo",2,"jdo","paz","crespaz"
+"jdopaz0000dia","Jdo Paz Diamante","jdopazcat1-dia@jusentrerios.gov.ar","Civil y Comercial","Diamante","Diamante",1,"jdo","paz","diapaz01"
+"jdopaz0000egr","Jdo Paz Estancia Gde","jdopazcat3-egra@jusentrerios.gov.ar","Civil y Comercial","Concordia","Estancia Grande",3,"jdo","paz",NA
+"jdopaz0000fed","Jdo Paz Federación","jdopazcat1-fcion@jusentrerios.gov.ar","Civil y Comercial","Federación","Federación",1,"jdo","paz","federacionpaz01"
+"jdopaz0000fel","Jdo Paz Feliciano","jdopazcat1-fel@jusentrerios.gov.ar","Civil y Comercial","Feliciano","Feliciano",1,"jdo","paz","felpaz01"
+"jdopaz0000frl","Jdo Paz Federal","jdopazcat1-fral@jusentrerios.gov.ar","Civil y Comercial","Federal","Federal",1,"jdo","paz","fedpaz01"
+"jdopaz0000gal","Jdo Paz Galarza","jdopazcat3-ggal@jusentrerios.gov.ar","Civil y Comercial","Gualeguay","Galarza",3,"jdo","paz",NA
+"jdopaz0000gay","Jdo Paz Gualeguay","jdopazcat1-gua@jusentrerios.gov.ar","Civil y Comercial","Gualeguay","Gualeguay",1,"jdo","paz","uaypaz01"
+"jdopaz0000gca","Jdo Paz Gral Campos","jdopazcat2-cam@jusentrerios.gov.ar","Civil y Comercial","San Salvador","General Campos",2,"jdo","paz",NA
+"jdopaz0000gch","Jdo Paz Gualeguaychú","jdopazcat1-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",1,"jdo","paz","guapaz01"
+"jdopaz0000has","Jdo Paz Hasenkamp","jdopazcat2-has@jusentrerios.gov.ar","Civil y Comercial","Paraná","Hasenkamp",2,"jdo","paz",NA
+"jdopaz0000her","Jdo Paz Hernandarias","jdopazcat2-her@jusentrerios.gov.ar","Civil y Comercial","Paraná","Hernandarias",2,"jdo","paz",NA
+"jdopaz0000hez","Jdo Paz Hernandez","jdopazcat3-her@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Hernandez",3,"jdo","paz",NA
+"jdopaz0000ibi","Jdo Paz Ibicuy","jdopazcat3-ibi@jusentrerios.gov.ar","Civil y Comercial","Islas del Ibicuy","Ibicuy",3,"jdo","paz","pcitopaz"
+"jdopaz0000lar","Jdo Paz Larroque","jdopazcat2-lar@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Larroque",2,"jdo","paz",NA
+"jdopaz0000lgo","Jdo Paz Lucas Gonzalez","jdopazcat3-lgon@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Lucas Gonzalez",3,"jdo","paz",NA
+"jdopaz0000lpa","Jdo Paz La Paz","jdopazcat1-lapaz@jusentrerios.gov.ar","Civil y Comercial","La Paz","La Paz",1,"jdo","paz","pazpaz01"
+"jdopaz0000mac","Jdo Paz Macia","jdopazcat2-mac@jusentrerios.gov.ar","Civil y Comercial","Tala","Macia",2,"jdo","paz",NA
+"jdopaz0000man","Jdo Paz Mansilla","jdopazcat3-man@jusentrerios.gov.ar","Civil y Comercial","Tala","Mansilla",3,"jdo","paz",NA
+"jdopaz0000mgr","Jdo Paz Maria Grande","jdopazcat2-mgra@jusentrerios.gov.ar","Civil y Comercial","Paraná","Maria Grande",2,"jdo","paz","mgdepaz"
+"jdopaz0000nog","Jdo Paz Nogoyá","jdopazcat1-nog@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Nogoyá",1,"jdo","paz","nogpaz01"
+"jdopaz0000ove","Jdo Paz Oro Verde","jdopazcat3-ov@jusentrerios.gov.ar","Civil y Comercial","Paraná","Oro Verde",3,"jdo","paz","overpaz"
+"jdopaz0000pbr","Jdo Paz Pueblo Brugo","jdopazcat3-pbru@jusentrerios.gov.ar","Civil y Comercial","Paraná","Pueblo Brugo",3,"jdo","paz",NA
+"jdopaz0000ram","Jdo Paz Ramirez","jdopazcat2-ram@jusentrerios.gov.ar","Civil y Comercial","Diamante","Ramirez",2,"jdo","paz","rampaz"
+"jdopaz0000sbe","Jdo Paz San Benito","jdopazcat2-sbenito@jusentrerios.gov.ar","Civil y Comercial","Paraná","San Benito",2,"jdo","paz","sbenpaz"
+"jdopaz0000seg","Jdo Paz Segui","jdopazcat3-seg@jusentrerios.gov.ar","Civil y Comercial","Paraná","Segui",3,"jdo","paz",NA
+"jdopaz0000sel","Jdo de Paz Sta Elena","jdopazcat2-ele@jusentrerios.gov.ar","Civil y Comercial","La Paz","Santa Elena",2,"jdo","paz","selenapaz"
+"jdopaz0000sja","Jdo Paz San Jaime Front","jdopazcat3-sjf@jusentrerios.gov.ar","Civil y Comercial","Federación","San Jaime de la Frontera",3,"jdo","paz",NA
+"jdopaz0000sjo","Jdo Paz San Jose","jdopazcat2-sjose@jusentrerios.gov.ar","Civil y Comercial","Colón","San Jose",2,"jdo","paz","sjosepaz"
+"jdopaz0000slu","Jdo Paz Sauce de Luna","jdopazcat2-luna@jusentrerios.gov.ar","Civil y Comercial","Federal","Sauce de Luna",2,"jdo","paz",NA
+"jdopaz0000ssa","Jdo Paz San Svdor","jdopazcat1-ssdor@jusentrerios.gov.ar","Civil y Comercial","San Salvador","San Salvador",1,"jdo","paz","salpaz01"
+"jdopaz0000tal","Jdo Paz Rosario Tala","jdopazcat1-tala@jusentrerios.gov.ar","Civil y Comercial","Tala","Rosario del Tala",1,"jdo","paz","rospaz01"
+"jdopaz0000uba","Jdo Paz Ubajay","jdopazcat2-uba@jusentrerios.gov.ar","Civil y Comercial","Colón","Ubajay",3,"jdo","paz",NA
+"jdopaz0000urd","Jdo Paz Urdinarrain","jdopazcat2-urd@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Urdinarrain",2,"jdo","paz",NA
+"jdopaz0000uru","Jdo Paz C.del Uruguay","jdopazcat1-uru@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",1,"jdo","paz","urupaz01"
+"jdopaz0000vca","Jdo Paz Villa Clara","jdopazcat3-vcla@jusentrerios.gov.ar","Civil y Comercial","Villaguay","Villa Clara",3,"jdo","paz",NA
+"jdopaz0000vdo","Jdo Paz Villa Dominguez","jdopazcat3-vdom@jusentrerios.gov.ar","Civil y Comercial","Villaguay","Villa Dominguez",3,"jdo","paz",NA
+"jdopaz0000vel","Jdo Paz Villa Elisa","jdopazcat2-veli@jusentrerios.gov.ar","Civil y Comercial","Colón","Villa Elisa",2,"jdo","paz","velipaz"
+"jdopaz0000via","Jdo Paz Viale","jdopazcat2-via@jusentrerios.gov.ar","Civil y Comercial","Paraná","Viale",2,"jdo","paz","vialepaz"
+"jdopaz0000vic","Jdo Paz Victoria","jdopazcat1-vic@jusentrerios.gov.ar","Civil y Comercial","Victoria","Victoria",1,"jdo","paz","vicpaz01"
+"jdopaz0000vil","Jdo Paz Villaguay","jdopazcat1-vil@jusentrerios.gov.ar","Civil y Comercial","Villaguay","Villaguay",1,"jdo","paz","vilapaz01"
+"jdopaz0000vma","Jdo Paz Villa Mantero","jdopazcat3-vman@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Villa Mantero",3,"jdo","paz",NA
+"jdopaz0000vpa","Jdo Paz V.Paranacito","jdopaz-vpa@jusentrerios.gov.ar","Civil y Comercial","Islas del Ibicuy","Villa Paranacito",3,"jdo","paz",NA
+"jdopaz0000vsa","Jdo Paz Villa San Marcial","jdopazcat3-vsm@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Villa San Marcial",3,"jdo","paz",NA
+"jdopaz0000vur","Jdo Paz Villa Urquiza","jdopazcat3-vu@jusentrerios.gov.ar","Civil y Comercial","Paraná","Villa Urquiza",3,"jdo","paz",NA
+"jdopaz0100pna","Jdo Paz 1 Parana","jdopaz1-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",1,"jdo","paz","parpaz01"
+"jdopaz0200pna","Jdo Paz 2 Parana","jdopaz2-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",1,"jdo","paz","parpaz02"
+"jdopen0000fel","Jdo Penal Civ Com y Laboral","jdogarytran-fel@jusentrerios.gov.ar","Civil y Comercial","Feliciano","Feliciano",NA,"jdo","cco|lab|pen","felcyc01"
+"jdopep0000gch","Jdo de Ejec.Penas y Med.Seguridad","jdoepms-gchu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",NA,"jdo","pep","guaejepen"
+"jdopep0000pna","Jdo de Ejec.Penas y Med.Seguridad","jdoepms-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"jdo","pep","parepenas"
+"jdopna0000pna","Jdo Penal de Niños y Adolescentes","jdopenmen-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"jdo","pna",NA
+"jezpen0000cha","Juez de Garantías",NA,"Penal","Chajarí","Chajarí",NA,"jez","pen",NA
+"jezpen0000col","Juez de Garantías","jdoinst-col@jusentrerios.gov.ar","Penal","Colón","Colón",NA,"jez","pen",NA
+"jezpen0000dia","Juez de Garantías","jdoinst-dia@jusentrerios.gov.ar","Penal","Diamante","Diamante",NA,"jez","pen",NA
+"jezpen0000fed","Juez de Garantías","jdoinst-fcion@jusentrerios.gov.ar","Penal","Federación","Federación",NA,"jez","pen",NA
+"jezpen0000fel","Juez de Garantías","oga-feliciano@jusentrerios.gov.ar","Penal","Feliciano","Feliciano",NA,"jez","pen",NA
+"jezpen0000frl","Juez de Garantías","jdoinst-fral@jusentrerios.gov.ar","Penal","Federal","Federal",NA,"jez","pen",NA
+"jezpen0000lpa","Juez de Garantías","jdogarantia-lapaz@jusentrerios.gov.ar","Penal","La Paz","La Paz",NA,"jez","pen",NA
+"jezpen0000nog","Juez de Garantías",NA,"Penal","Nogoyá","Nogoyá",NA,"jez","pen","nogins01"
+"jezpen0000tal","Juez de Garantías","jdoinst-tala@jusentrerios.gov.ar","Penal","Tala","Rosario del Tala",NA,"jez","pen",NA
+"jezpen0000vic","Juez de Garantías","jdoinst-vic@jusentrerios.gov.ar","Penal","Victoria","Victoria",NA,"jez","pen",NA
+"jezpen0000vil","Juez de Garantías","jdoinsts1-vil@jusentrerios.gov.ar","Penal","Villaguay","Villaguay",NA,"jez","pen",NA
+"jezpen0100con","Juez de Garantías 1","jdogar1-con@jusentrerios.gov.ar","Penal","Concordia","Concordia",NA,"jez","pen",NA
+"jezpen0100gay","Juez de Garantías 1",NA,"Penal","Gualeguay","Gualeguay",NA,"jez","pen",NA
+"jezpen0100gch","Juez de Garantías 1","jdogar1-gchu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",NA,"jez","pen",NA
+"jezpen0100pna","Juez de Garantía 1","jgarantia1-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"jez","pen",NA
+"jezpen0100uru","Juez de Garantías 1",NA,"Penal","Uruguay","Concepción del Uruguay",NA,"jez","pen",NA
+"jezpen0200con","Juez de Garantías 2","jdogar2-con@jusentrerios.gov.ar","Penal","Concordia","Concordia",NA,"jez","pen",NA
+"jezpen0200gay","Juez de Garantías 2",NA,"Penal","Gualeguay","Gualeguay",NA,"jez","pen",NA
+"jezpen0200gch","Juez de Garantías 2","jdogar2-gchu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",NA,"jez","pen",NA
+"jezpen0200pna","Juez de Garantía 2","jgarantia2-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"jez","pen",NA
+"jezpen0200uru","Juez de Garantías 2",NA,"Penal","Uruguay","Concepción del Uruguay",NA,"jez","pen",NA
+"jezpen0300con","Juez de Garantías 3",NA,"Penal","Concordia","Concordia",NA,"jez","pen",NA
+"jezpen0300pna","Juez de Garantía 3","jgarantia3-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"jez","pen",NA
+"jezpen0400pna","Juez de Garantía 4","jgarantia4-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"jez","pen",NA
+"muistj0100pna","Mesa Unica Informatizada","mui@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"mui","cco|fam|paz|lab",NA
+"muistj0200con","Mesa Unica Informatizada",NA,"Civil y Comercial","Concordia","Concordia",NA,"mui","cco|fam|paz|lab",NA
+"muistj0300gch","Mesa Unica Informatizada","mui-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"mui","cco|fam|paz|lab",NA
+"muistj0400gay","Mesa Unica Informatizada",NA,"Civil y Comercial","Gualeguay","Gualeguay",NA,"mui","cco|fam|paz|lab",NA
+"muistj0500uru","Mesa Unica Informatizada","mui-uruguay@jusentrerios.gov.ar","Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"mui","cco|fam|paz|lab",NA
+"ogapen0000con","OGA","ogaconcordia@jusentrerios.gov.ar","Penal","Concordia","Concordia",1,"oga","pen","conoga"
+"ogapen0000gay","OGA","ogagualeguay@jusentrerios.gov.ar","Penal","Gualeguay","Gualeguay",1,"oga","pen","uayoga"
+"ogapen0000gch","OGA","jdogar1-gchu@jusentrerios.gov.ar, jdogar2-gchu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",1,"oga","pen","guaoga"
+"ogapen0000lpa","OGA","oga-lapaz@jusentrerios.gov.ar","Penal","La Paz","La Paz",1,"oga","pen","pazoga"
+"ogapen0000nog","OGA","oganogoya@jusentrerios.gov.ar","Penal","Nogoyá","Nogoyá",1,"oga","pen",NA
+"ogapen0000pna","OGA","ogaparana@jusentrerios.gov.ar","Penal","Paraná","Paraná",1,"oga","pen","paroga"
+"ogapen0000uru","OGA","jdogarantia-uru@jusentrerios.gov.ar","Penal","Uruguay","Concepción del Uruguay",1,"oga","pen","uruoga"
+"omapen0000cha","OMA","mediacionpenalchajari@jusentrerios.gov.ar","Penal","Chajarí","Chajarí",NA,"oma","pen",NA
+"omapen0000col","OMA","mediacionpenalcolon@jusentrerios.gov.ar","Penal","Colón","Colón",NA,"oma","pen",NA
+"omapen0000con","OMA","mediacionpenalconcordia@jusentrerios.gov.ar","Penal","Concordia","Concordia",NA,"oma","pen",NA
+"omapen0000dia","OMA","mediacionpenaldte@hotmail.com","Penal","Diamante","Diamante",NA,"oma","pen",NA
+"omapen0000fed","OMA","mediacionpenalfederacion@jusentrerios.gov.ar","Penal","Federación","Federación",NA,"oma","pen",NA
+"omapen0000fel","OMA","mediacionpenfeliciano@gmail.com","Penal","Feliciano","Feliciano",NA,"oma","pen",NA
+"omapen0000frl","OMA",NA,"Penal","Federal","Federal",NA,"oma","pen",NA
+"omapen0000gay","OMA","mediacionpenalgualeguay@jusentrerios.gov.ar","Penal","Gualeguay","Gualeguay",NA,"oma","pen",NA
+"omapen0000gch","OMA","mediacionpenalgualeguaychu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",NA,"oma","pen",NA
+"omapen0000lpa","OMA","mediacionpenallapaz@jusentrerios.gov.ar","Penal","La Paz","La Paz",NA,"oma","pen",NA
+"omapen0000nog","OMA","mediacionpenalnogoya@jusentrerios.gov.ar","Penal","Nogoyá","Nogoyá",NA,"oma","pen",NA
+"omapen0000pna","OMA","mediacionpenalparana@gmail.com","Penal","Paraná","Paraná",NA,"oma","pen","parmedia"
+"omapen0000tal","OMA","mediacionpenaltala@jusentrerios.gov.ar","Penal","Tala","Rosario del Tala",NA,"oma","pen",NA
+"omapen0000uru","OMA","mediacionpenaluruguay@jusentrerios.gov.ar","Penal","Uruguay","Concepción del Uruguay",NA,"oma","pen",NA
+"omapen0000vic","OMA","mediacionpenalvictoria@jusentrerios.gov.ar","Penal","Victoria","Victoria",NA,"oma","pen",NA
+"omapen0000vil","OMA","oficinamediacionpenalvillaguay@gmail.com","Penal","Villaguay","Villaguay",NA,"oma","pen",NA
+"salcco0200pna","Sala 2 Civil y Comercial STJER","salacyc-pna@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",NA,"sal","cco","parstsc01"
+"sallab0300pna","Sala 3 del Trabajo STJER","salalab-pna@jusentrerios.gov.ar","Laboral","Paraná","Paraná",NA,"sal","lab","parstsl01"
+"salpen0100pna","Sala 1 Penal STJER","salapen-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"sal","pen|ppc","parstsp01"
+"stjcad0000pna","STJER Contencioso Administrativo","contencioso@jusentrerios.gov.ar","ConAdm","Entre Ríos","Paraná",NA,"stj","cad","parconten"
+"tjapen0000con","Tribunal de Juicio y Apelaciones","salapen-con@jusentrerios.gov.ar","Penal","Concordia","Concordia",NA,"tja","pen",NA
+"tjapen0000gay","Tribunal de Juicio y Apelaciones",NA,"Penal","Gualeguay","Gualeguay",NA,"tja","pen","uayapel"
+"tjapen0000gch","Tribunal de Juicio y Apelaciones","tribunaljuicios-gchu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",NA,"tja","pen",NA
+"tjapen0000lpa","Tribunal de Juicio y Apelaciones de Paraná Con Asiento En La Paz","tribjya-paranalapaz@jusentrerios.gov.ar","Penal","La Paz","La Paz",NA,"tja","pen","pazcorr01"
+"tjapen0000nog","Tribunal de Juicio y Apelaciones de Gualeguay Con Asiento En Nogoyá",NA,"Penal","Nogoyá","Nogoyá",NA,"tja","pen",NA
+"tjapen0000pna","Tribunal de Juicio y Apelaciones",NA,"Penal","Paraná","Paraná",NA,"tja","pen",NA
+"tjapen0000uru","Tribunal de Juicio y Apelaciones","salapen-uru@jusentrerios.gov.ar","Penal","Uruguay","Concepción del Uruguay",NA,"tja","pen",NA
+"tracam0100pna","Cam Penal Sala I (en Trans )","transicionjuicios@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"tra","pen",NA
+"tracam0200pna","Cam Penal Sala II (en Trans )","aarduino@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"tra","pen",NA
+"tracor0100pna","Jdo Correccional 1","aarus@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"tra","pen",NA
+"tracor0202pna","Jdo Correccional 2","mspossito@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"tra","pen",NA
+"transi0000cha","Transición","jdoinst-cha@jusentrerios.gov.ar","Penal","Chajarí","Chajarí",NA,"tra","pen",NA
+"transi0000col","Transición","jdoinst-col@jusentrerios.gov.ar","Penal","Colón","Colón",NA,"tra","pen","coltra01"
+"transi0000dia","Transición","jdoinst-dia@jusentrerios.gov.ar","Penal","Diamante","Diamante",NA,"tra","pen",NA
+"transi0000fed","Transición","jdoinst-fcion@jusentrerios.gov.ar","Penal","Federación","Federación",NA,"tra","pen",NA
+"transi0000frl","Transición","jdoinst-fral@jusentrerios.gov.ar","Penal","Federal","Federal",NA,"tra","pen",NA
+"transi0000lpa","Transición","oga-lapaz@jusentrerios.gov.ar","Penal","La Paz","La Paz",NA,"tra","pen",NA
+"transi0000nog","Transición","jdoinst-nog@jusentrerios.gov.ar","Penal","Nogoyá","Nogoyá",NA,"tra","pen",NA
+"transi0000vic","Transición","jdoinst-vic@jusentrerios.gov.ar","Penal","Victoria","Victoria",NA,"tra","pen",NA
+"transi0000vil","Transición","jdoinsts1-vil@jusentrerios.gov.ar","Penal","Villaguay","Villaguay",NA,"tra","pen",NA
+"transi0100gay","Transición1","jdoinsts1-gua@jusentrerios.gov.ar","Penal","Gualeguay","Gualeguay",NA,"tra","pen",NA
+"transi0100gch","Transición1","jdogar1-gchu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",NA,"tra","pen",NA
+"transi0100pna","Transición1","jdotransicion2-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"tra","pen",NA
+"transi0100uru","Transición1","jdogarantia-uru@jusentrerios.gov.ar","Penal","Uruguay","Concepción del Uruguay",NA,"tra","pen",NA
+"transi0200gay","Transición2","jdoinsts2-gua@jusentrerios.gov.ar","Penal","Gualeguay","Gualeguay",NA,"tra","pen",NA
+"transi0200gch","Transición2","jdogar2-gchu@jusentrerios.gov.ar","Penal","Gualeguaychú","Gualeguaychú",NA,"tra","pen",NA
+"transi0200pna","Transición2","jdotransicion2-pna@jusentrerios.gov.ar","Penal","Paraná","Paraná",NA,"tra","pen",NA
+"transi0200uru","Transición2","jdogarantia-uru@jusentrerios.gov.ar","Penal","Uruguay","Concepción del Uruguay",NA,"tra","pen",NA
+"turvol0100pna","Turno Voluntario Paraná","turnovoluntario@jusentrerios.gov.ar","Civil y Comercial","Paraná","Paraná",1,"jdo","paz",NA
+"def0000000cha","Defensoría Pobres Y Menores",NA,"defensa","Chajarí","Chajarí",NA,NA,NA,NA
+"ufi0000000cha","Unidad Fiscal UFI",NA,"fiscal","Chajarí","Chajarí",NA,NA,NA,NA
+"def0000000col","Ministerio Público La Defensa",NA,"defensa","Colón","Colón",NA,NA,NA,NA
+"ufi0000000col","Unidad Fiscal UFI",NA,"fiscal","Colón","Colón",NA,NA,NA,NA
+"def0000000con","Defensoría Pobres Y Menores",NA,"defensa","Concordia","Concordia",NA,NA,NA,NA
+"fiscam0000con","Fiscalía Cámara",NA,"fiscal","Concordia","Concordia",NA,NA,NA,NA
+"ufi0000000con","Unidad Fiscal UFI",NA,"fiscal","Concordia","Concordia",NA,NA,NA,NA
+"def0000000dia","Defensoría Pobres Y Menores",NA,"defensa","Diamante","Diamante",NA,NA,NA,NA
+"ufi0000000dia","Unidad Fiscal UFI",NA,"fiscal","Diamante","Diamante",NA,NA,NA,NA
+"def0000000fed","Defensoría Pobres Y Menores",NA,"defensa","Federación","Federación",NA,NA,NA,NA
+"ufi0000000fed","Unidad Fiscal UFI",NA,"fiscal","Federación","Federación",NA,NA,NA,NA
+"def0000000frl","Defensoría Pobres Y Menores",NA,"defensa","Federal","Federal",NA,NA,NA,NA
+"ufi0000000frl","Unidad Fiscal UFI",NA,"fiscal","Federal","Federal",NA,NA,NA,NA
+"def0000000fel","Defensoría Pobres Y Menores",NA,"defensa","Feliciano","Feliciano",NA,NA,NA,NA
+"ufi0000000fel","Unidad Fiscal UFI",NA,"fiscal","Feliciano","Feliciano",NA,NA,NA,NA
+"def0000000gay","Defensoría Pobres Y Menores",NA,"defensa","Gualeguay","Gualeguay",NA,NA,NA,NA
+"ufi0000000gay","Unidad Fiscal UFI",NA,"fiscal","Gualeguay","Gualeguay",NA,NA,NA,NA
+"def0000000gch","Defensoría Pobres Y Menores",NA,"defensa","Gualeguaychú","Gualeguaychú",NA,NA,NA,NA
+"ufi0000000gch","Unidad Fiscal UFI",NA,"fiscal","Gualeguaychú","Gualeguaychú",NA,NA,NA,NA
+"def0000000ibi","Defensoría Pobres Y Menores",NA,"defensa","Islas del Ibicuy","Villa Paranacito",NA,NA,NA,NA
+"ufi0000000ibi","Unidad Fiscal UFI",NA,"fiscal","Islas del Ibicuy","Villa Paranacito",NA,NA,NA,NA
+"def0000000lpa","Defensoría Pobres Y Menores",NA,"defensa","La Paz","La Paz",NA,NA,NA,NA
+"ufi0000000lpa","Unidad Fiscal UFI",NA,"fiscal","La Paz","La Paz",NA,NA,NA,NA
+"def0000000nog","Defensoría Pobres Y Menores",NA,"defensa","Nogoyá","Nogoyá",NA,NA,NA,NA
+"ufi0000000nog","Unidad Fiscal UFI",NA,"fiscal","Nogoyá","Nogoyá",NA,NA,NA,NA
+"def0000000pna","Defensoría Pobres Y Menores",NA,"defensa","Paraná","Paraná",NA,NA,NA,NA
+"def0000100par","Defensoria Primera Instancia Penal",NA,"defensa","Paraná","Paraná",NA,NA,NA,NA
+"defgra0000par","Defensoria General",NA,"defensa","Paraná","Paraná",NA,NA,NA,NA
+"fiscam0000pna","FISCALIAS DE CAMARA",NA,"fiscal","Paraná","Paraná",NA,NA,NA,NA
+"pro0000000pna","Procuración General La Provincia",NA,"fiscal","Paraná","Paraná",NA,NA,NA,NA
+"ruaer00000par","Registro Único Adopciones",NA,"defensa","Paraná","Paraná",NA,NA,NA,NA
+"ufi0000000pna","Unidad Fiscal UFI",NA,"fiscal","Paraná","Paraná",NA,NA,NA,NA
+"def0000000ssa","Defensoría Pobres Y Menores",NA,"defensa","San Salvador","San Salvador",NA,NA,NA,NA
+"ufi0000000ssa","Unidad Fiscal UFI",NA,"fiscal","San Salvador","San Salvador",NA,NA,NA,NA
+"def0000000tal","Defensoría Pobres Y Menores",NA,"defensa","Tala","Rosario del Tala",NA,NA,NA,NA
+"ufi0000000tal","Unidad Fiscal UFI",NA,"fiscal","Tala","Rosario del Tala",NA,NA,NA,NA
+"def0000000uru","Defensoría Pobres Y Menores",NA,"defensa","Uruguay","Concepción del Uruguay",NA,NA,NA,NA
+"ufi0000000uru","Ministerio Público Fiscal",NA,"fiscal","Uruguay","Concepción del Uruguay",NA,NA,NA,NA
+"fiscam0000uru","Fiscalia Cámara",NA,"fiscal","Uruguay","Concepción del Uruguay",NA,NA,NA,NA
+"def0000000vic","Defensoría Pobres Y Menores",NA,"defensa","Victoria","Victoria",NA,NA,NA,NA
+"ufi0000000vic","Unidad Fiscal UFI",NA,"fiscal","Victoria","Victoria",NA,NA,NA,NA
+"def0000000vil","Ministerio Público La Defensa",NA,"defensa","Villaguay","Villaguay",NA,NA,NA,NA
+"ufi0000000vil","Unidad Fiscal UFI",NA,"fiscal","Villaguay","Villaguay",NA,NA,NA,NA
+"ogapen0000cha","OGA","jdoinst-cha@jusentrerios.gov.ar","Penal","Chajarí","Chajarí",1,"oga","pen","chagar01"
+"ogapen0000col","OGA","jdoinst-col@jusentrerios.gov.ar","Penal","Colón","Colón",1,"oga","pen","colgar01"
+"ogapen0000dia","OGA","jdoinst-dia@jusentrerios.gov.ar","Penal","Diamante","Diamante",1,"oga","pen","diains01"
+"ogapen0000fed","OGA","jdoinst-fcion@jusentrerios.gov.ar","Penal","Federación","Federación",1,"oga","pen","federaciongar01"
+"ogapen0000fel","OGA","oga-feliciano@jusentrerios.gov.ar","Penal","Feliciano","Feliciano",1,"oga","pen",NA
+"ogapen0000frl","OGA","jdoinst-fral@jusentrerios.gov.ar","Penal","Federal","Federal",1,"oga","pen","fedgar01"
+"ogapen0000tal","OGA","jdoinst-tala@jusentrerios.gov.ar","Penal","Tala","Rosario del Tala",1,"oga","pen","rosgar01"
+"ogapen0000vic","OGA","jdoinst-vic@jusentrerios.gov.ar","Penal","Victoria","Victoria",1,"oga","pen","vicgar01"
+"ogapen0000vil","OGA","jdoinsts1-vil@jusentrerios.gov.ar","Penal","Villaguay","Villaguay",1,"oga","pen","vilgar01"
+"aghstj0000pna","Gestión Humana","sgp@jusentrerios.gov.ar","Administrativo","Paraná","Paraná",NA,"adm","agh",NA
+"jdolab0000col","Jdo Laboral","jdolab-col@jusentrerios.gov.ar","Laboral","Colón","Colón",NA,"jdo","lab","coltrab01"
+"camcad0000pna","Cámara Contencioso Administrativo-Paraná","seccamcontad-pna@jusentrerios.gov.ar","ConAdm","Paraná","Paraná",NA,"cam","cad","parccont"
+"camcad0000uru","Cámara Contencioso Administrativo-Uruguay","seccamcontad-uru@jusentrerios.gov.ar","ConAdm","Uruguay","Concepción del Uruguay",NA,"cam","cad","urucamcon"
+"jdopaz0000ara","Jdo Paz Aranguren","jdopazcat3-ara@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Aranguren",3,"jdo","paz",NA
+"jdofam0100gch","Jdo Fam Pen Niñ Ado 1","jdofliamens1-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","fam|pen","guafam"
+"jdofam0200gch","Jdo Fam Pen Niñ Ado 2","jdofliamens2-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","fam|pen",NA
+"jdofam0100con","Jdo Fam Pen Niñ Ado 1","jdofliamen1s1-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","fam|pen","confam01"
+"jdofam0200con","Jdo Fam Pen Niñ Ado 2","jdofliamen2-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","fam|pen","confam02"
+"jdofam0300con","Jdo Fam Pen Niñ Ado 3","jdofliamen3-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","fam|pen","confam03"
+"jdofam0001uru","Jdo Fam Pen Niñ Ado sec.1",NA,"Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"jdo","fam|pen",NA
+"jdofam0002uru","Jdo Fam Pen Niñ Ado sec.2",NA,"Civil y Comercial","Uruguay","Concepción del Uruguay",NA,"jdo","fam|pen",NA
+"campen0000con","Cam de Casación Penal","camaracasacion-con@jusentrerios.gov.ar","Penal","Concordia","Concordia",NA,"cam","pen","conccpen"
+"stjssi0100pna","Secretaría de Superintendencia Nº 1","esalomon@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjssi0200pna","Secretaría de Superintendencia Nº 2","superintendencia2-pna@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjsca0000pna","Secretaría en lo Contencioso Adm. y Asuntos Judiciales","contencioso@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjsjb0000pna","Secretaría de Jurisprudencia y Legislación, Biblioteca y Archivo","erodriguezvagaria@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjpla0000pna","Área de Planeamiento e Infraestructura","planeamiento@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjghu0000pna","Área de Gestión Humana","personal@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjpge0000pna","Área de Planificación, Gestión y Estadística","apge@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjaad0000pna","Área de Asuntos Administrativos","asuntosadm@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjbib0000pna","Biblioteca","biblioteca@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjarc0000pna","Archivo","archivo@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjcon0000pna","Área de Contaduría General","contaduria@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjdmf0000pna","Departamento Médico Forense","dptomedico-pna@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjsgf0000pna","Servicio de Genética Forense","adn@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjacu0000pna","Acuerdos","acuerdos@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjcer0000pna","Oficina de Ceremonial","ceremonial@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjcom0000pna","Oficina de Compras y Asesoramiento","compras@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjinf0000pna","Oficina de Informática","informatica@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjper0000pna","Oficina Pericial","peritocaligrafostj@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjtes0000pna","Área de Tesorería General","tesoreria@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjmuj0000pna","Oficina de la Mujer","centrogeneromujer@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjvge0000pna","Oficina de Violencia de Género","centrogeneroviolencia@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjcen0000pna","Centro de Medios Alternativos y Resolución de Conflictos","mediacion@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjalb0000pna","Instituto Dr. Juan Bautista Alberdi","institutojuanbalberdi@gmail.com","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjmip0000pna","Mesa Información Permanente","mesainfper@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjmui0000pna","Mesa Única Informatizada","mui@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjoga0000pna","Oficina de Gestión de Audiencias (OGA)","ogaparana@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjoma0000pna","Oficina de Medios Alternativos (OMA)","omaparana@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"stjonm0000pna","Oficina de Notificaciones y Mandamientos","notificaciones@jusentrerios.gov.ar","STJ","Paraná","Paraná",NA,"stj",NA,NA
+"omapen0000ssa","OMA",NA,"Penal","San Salvador","San Salvador",NA,"oma","pen",NA
+"stjpco0000pna","STJER Procedimientos Constitucionales","amparos@jusentrerios.gov.ar","Constitucional","Entre Ríos","Paraná",NA,"stj","pco","paramp01"
+"ogapen0000ssa","OGA","ogaconcordia@jusentrerios.gov.ar","Penal","San Salvador","San Salvador",1,"oga","pen",NA
