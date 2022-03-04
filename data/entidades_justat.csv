@@ -343,7 +343,7 @@
 "jdolab0000col","Jdo Laboral","jdolab-col@jusentrerios.gov.ar","Laboral","Colón","Colón",NA,"jdo","lab","coltrab01"
 "camcad0000pna","Cámara Contencioso Administrativo-Paraná","seccamcontad-pna@jusentrerios.gov.ar","ConAdm","Paraná","Paraná",NA,"cam","cad","parccont"
 "camcad0000uru","Cámara Contencioso Administrativo-Uruguay","seccamcontad-uru@jusentrerios.gov.ar","ConAdm","Uruguay","Concepción del Uruguay",NA,"cam","cad","urucamcon"
-"jdopaz0000ara","Jdo Paz Aranguren","jdopazcat3-ara@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Aranguren",3,"jdo","paz",NA
+"jdopaz0000ara","Jdo Paz Aranguren","jdopazcat3-ara@jusentrerios.gov.ar","Civil y Comercial","Nogoyá","Aranguren",3,"jdo","paz","nogarapaz3"
 "jdofam0100gch","Jdo Fam Pen Niñ Ado 1","jdofliamens1-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","fam|pen","guafam"
 "jdofam0200gch","Jdo Fam Pen Niñ Ado 2","jdofliamens2-gchu@jusentrerios.gov.ar","Civil y Comercial","Gualeguaychú","Gualeguaychú",NA,"jdo","fam|pen","guafam"
 "jdofam0100con","Jdo Fam Pen Niñ Ado 1","jdofliamen1s1-con@jusentrerios.gov.ar","Civil y Comercial","Concordia","Concordia",NA,"jdo","fam|pen","confam01"
